@@ -1,0 +1,15 @@
+{
+  "name": "expo-gamepad",
+  "version": "1.0.0",
+  "description": "Custom Expo module for gamepad/controller support on Android",
+  "main": "index.ts",
+  "scripts": {},
+  "keywords": [
+    "expo",
+    "gamepad",
+    "controller",
+    "android"
+  ],
+  "author": "airx",
+  "license": "MIT"
+}

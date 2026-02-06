@@ -1,0 +1,8 @@
+.env*
+.vercel
+
+/model
+/temp_videos
+random*.MOV
+
+.venv

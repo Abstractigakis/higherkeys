@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "7683d54a3e63546a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e62cb2dc85c743c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e9bf935adfdd3aa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f591557212056e31",
+    "type": "split",
+    "children": [
+      {
+        "id": "241eba5f8ab7bb58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdd49ab73271737a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e26ad20f7c4d3393",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6a960aec198fea8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91f47eb54186b89f",
+    "type": "split",
+    "children": [
+      {
+        "id": "88f4bf4f6caaefa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7da3b5e3cfbd083",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "auth.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for auth"
+            }
+          },
+          {
+            "id": "a73cf1e6c95dbcf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "auth.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from auth"
+            }
+          },
+          {
+            "id": "f051b044c72364a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "454167f1658735ee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e0eec5ff9a9f72f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "auth.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of auth"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0e9bf935adfdd3aa",
+  "lastOpenFiles": [
+    "technical/symmetries.md",
+    "technical/esi.md",
+    "marketing/design.md",
+    "uis/playlists.md",
+    "uis/modals.md",
+    "uis/highlighter.md",
+    "uis/higherkeys.md",
+    "uis/dashboard.md",
+    "uis/controls.md",
+    "uis",
+    "technical/search.md",
+    "marketing/strategy.md",
+    "marketing/identity.md",
+    "marketing/homepage.md",
+    "marketing/branding.md",
+    "marketing",
+    "entities/sources.md",
+    "entities/highlights.md",
+    "entities/higherkeys.md",
+    "entities",
+    "company/mission-statement.md",
+    "company",
+    "symmetries.md",
+    "symetries.md",
+    "Higher Keys.md",
+    "Branding.md",
+    "Untitled.md",
+    "Mission.md",
+    "Company.md",
+    "technical/auth.md",
+    "Untitled.canvas",
+    "sources.png",
+    "Untitled 2.canvas",
+    "company/Untitled",
+    "Untitled 1.canvas"
+  ]
+}

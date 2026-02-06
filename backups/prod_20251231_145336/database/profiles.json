@@ -1,0 +1,44 @@
+[
+  {
+    "id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "updated_at": "2025-12-26T20:33:14.06+00:00",
+    "username": null,
+    "full_name": "Eric Stratigakis",
+    "avatar_url": "https://auth.higherkeys.com/storage/v1/object/public/avatars/19c47219-e31a-4208-a6db-a135cff22207-0.5976964490112338.png"
+  },
+  {
+    "id": "feb8abf4-96e5-4408-9a53-70f5212bffc7",
+    "updated_at": "2025-12-26T23:30:47.77+00:00",
+    "username": null,
+    "full_name": "Louis Nguyen",
+    "avatar_url": "https://auth.higherkeys.com/storage/v1/object/public/avatars/feb8abf4-96e5-4408-9a53-70f5212bffc7-0.4505479327272063.jpg"
+  },
+  {
+    "id": "f4591b73-0a04-4671-b7dc-79178b051f05",
+    "updated_at": "2025-12-27T20:16:17.359+00:00",
+    "username": null,
+    "full_name": "Eric Stratigakis",
+    "avatar_url": "https://auth.higherkeys.com/storage/v1/object/public/avatars/f4591b73-0a04-4671-b7dc-79178b051f05-0.16869795200608106.png"
+  },
+  {
+    "id": "bed885ed-b441-4d74-9cf6-ad82d57d980a",
+    "updated_at": "2025-12-28T02:31:44.741+00:00",
+    "username": null,
+    "full_name": "Sonja Vadori",
+    "avatar_url": "https://auth.higherkeys.com/storage/v1/object/public/avatars/bed885ed-b441-4d74-9cf6-ad82d57d980a-0.5868977880394181.jpg"
+  },
+  {
+    "id": "9306fd12-9bb8-4c88-8175-9bc391c8f86c",
+    "updated_at": null,
+    "username": null,
+    "full_name": "Sarah Strat",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocI_C5dXItRpwA1mmgGbMGravbGsEVy8weC7mQ9evCTuxZPxPA=s96-c"
+  },
+  {
+    "id": "48c25c45-5d0a-4f82-8b58-ac8b161e7ae3",
+    "updated_at": null,
+    "username": null,
+    "full_name": "Eric Todd",
+    "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKrtvE8VsDqqLD9wHstVgNXDkMzzqJB1pHQORH_C2TjFnRGbA=s96-c"
+  }
+]

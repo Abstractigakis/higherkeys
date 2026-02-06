@@ -1,0 +1,602 @@
+[
+  {
+    "id": "5824265c-652c-420c-b9d2-277baff422cb",
+    "title": "John Mayer: Someday I'll Fly",
+    "created_at": "2025-12-24T19:24:49.035+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Music Documentary | John Mayer: Someday I'll Fly chronicles the musical evolution of one of the most influential solo artists of his generation. Featuring rare demos, interviews and live performances; it is told in it's entirety from Mayer's perspective.\nExplore the full story and creative process of acclaimed, Grammy Award winning, guitarist and singer-songwriter John Mayer.\n\nProduced and Edited by Eastwood Allen\n@eastwoodallen\n   http://www.eastwoodallen.com\n\nCOMPLETE TRACK-LISTING can be found HERE: http://www.tinyurl.com/JohnMayerDocSoundtrack\n\nJohn Mayer: Someday I'll Fly | Behind The Editing (Video)\nhttps://www.youtube.com/watch?v=VjRJBVGvjdo\n\nJohn Mayer: Someday I'll Fly | Extras\nhttp://eastwoodallen.tumblr.com/tagged/JohnMayerDoc",
+    "status": "error"
+  },
+  {
+    "id": "cdd8a70a-85a9-4601-9f12-1288c3be7486",
+    "title": "Why Every Great Idea Is a Remix ?",
+    "created_at": "2025-12-29T15:29:12.805918+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "If nothing is original, then what are we actually proud of?\n\nThis video breaks a deeply uncomfortable idea. That creativity is not invention, but rearrangement. That science does not move forward by creating something from nothing, but by compressing messy reality into simpler models.\n\nWe look at why the brain cannot imagine what it has never seen, why even genius is refinement rather than creation, and how figures like Newton and Einstein built their breakthroughs by filtering existing ideas, not inventing reality from scratch.\n\nThis is a continuation of ideas explored in our previous video, Mathematics of Creativity, where we showed how the mind recombines patterns instead of generating novelty out of thin air.\n\nNothing is original.\nBut not everything is meaningless.\n\nThe real skill is knowing what to keep, what to discard, and how to assemble ideas that matter.\n\nTIMESTAMPS\n\n00:00 Intro\n00:52 Nothing Comes From Nothing\n02:17 Genius Is Refinement, Not Creation\n03:52 Why Originality Feels Real\n04:50 If Nothing Is Original, What Matters\n\n#nothingisoriginal #creativity #originality #philosophy #science #ideas #humanmind #innovation #intelligence #xenosphereoriginals",
+    "status": "ready"
+  },
+  {
+    "id": "c11c5c67-a53e-4a4f-8b1d-7e25688a0db1",
+    "title": "Developmental Psychology | Abstract vs Concrete Thinking #Piaget",
+    "created_at": "2025-12-30T18:08:34.216266+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Learn more about this study and Piaget's Stages of Cognitive Development \n\n1. https://thesocietypages.org/socimages/2009/09/15/piagets-stages-of-cognitive-development-experiments-with-kids/\n\n2. https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1070&context=edp",
+    "status": "ready"
+  },
+  {
+    "id": "ba61036e-ed15-4124-a644-286181b4d196",
+    "title": "Me at the zoo",
+    "created_at": "2025-12-24T19:24:47.96+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Microplastics are accumulating in human brains at an alarming rate\nhttps://www.youtube.com/watch?v=0PT5c1z3LL8\n\n\u201cNanoplastics and Human Health\u201d with Matthew J Campen, PhD, MSPH\nhttps://www.youtube.com/watch?v=RRBN_4L09Mg\n\n00:00 Intro\n00:05 The cool thing\n00:17 End",
+    "status": "error"
+  },
+  {
+    "id": "e716b92c-c248-48b0-af76-f1ee8b0bffde",
+    "title": "Tri Dao: The End of Nvidia's Dominance, Why Inference Costs Fell & The Next 10X in Speed",
+    "created_at": "2025-12-24T19:24:48.852+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Tri Dao, Chief Scientist at Together AI and Princeton professor who created Flash Attention and Mamba, discusses how inference optimization has driven costs down 100x since ChatGPT's launch through memory optimization, sparsity advances, and hardware-software co-design. He predicts the AI hardware landscape will shift from Nvidia's current 90% dominance to a more diversified ecosystem within 2-3 years, as specialized chips emerge for distinct workload categories: low-latency agentic systems, high-throughput batch processing, and interactive chatbots. Dao shares his surprise at AI models becoming genuinely useful for expert-level work, making him 1.5x more productive at GPU kernel optimization through tools like Claude Code and O1. The conversation explores whether current transformer architectures can reach expert-level AI performance or if approaches like mixture of experts and state space models are necessary to achieve AGI at reasonable costs. Looking ahead, Dao sees another 10x cost reduction coming from continued hardware specialization, improved kernels, and architectural advances like ultra-sparse models, while emphasizing that the biggest challenge remains generating expert-level training data for domains lacking extensive internet coverage.\n\n0:00 Intro\n1:58 Nvidia's Dominance and Competitors\n4:01 Challenges in Chip Design\n6:28 Innovations in AI Hardware\n9:21 The Role of AI in Chip Optimization\n11:59 Future of AI and Hardware Abstractions\n16:02 Inference Optimization Techniques\n32:26 Specialization in AI Inference\n36:35 Reinforcement Learning and High Throughput Inference\n37:37 Fleet Level Optimization and Batch Inference\n38:50 Evolving AI Workloads and Open Source Tooling\n40:32 Future of AI: Agentic Workloads and Real-Time Video Generation\n43:51 Architectural Innovations and AI Expert Level\n49:26 Robotics and Multi-Resolution Processing\n51:40 Balancing Academia and Industry in AI Research\n56:52 Quickfire\n\nWith your co-hosts:\u00a0\n@jacobeffron\u00a0\n- Partner at Redpoint, Former PM Flatiron Health\u00a0\n@patrickachase\u00a0\n- Partner at Redpoint, Former ML Engineer LinkedIn\u00a0\n@ericabrescia\u00a0\n- Former COO Github, Founder Bitnami (acq\u2019d by VMWare)\u00a0\n@jordan_segall\u00a0\n- Partner at Redpoint",
+    "status": "ready"
+  },
+  {
+    "id": "0e6de103-3529-44c1-91b2-e9c5b3951185",
+    "title": "#1 Best Meal to UNCLOG Your Arteries (Backed by Science)",
+    "created_at": "2025-12-24T19:24:49.137+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Use these foods to structure the best evidence-based meal to reverse and stabilize arterial plaque and atherosclerosis. We go over the most high-yield foods, best exercise, and a supplement that actually has evidence to support it. \n\nChapters: \n00:00 Best Meal to Unclog Arteries\n00:38 Overall strategy\n01:20 Plaque formation\n02:34 How to get Lycopene\n03:23 How to approach Phytosterols\n04:55 Flavonoid-rich foods / Catechins\n06:13  Extra virgin olive oil\n06:49 How to approach seafood\n07:42 \u201cHeart-healthy\u201d foods to avoid\n09:21 Best exercise to reverse plaque\n10:10 Best supplement\n10:38 Bonus tactic\n\n\nDr Kim is a physician, board-certified in Internal and Obesity Medicine, with a passion for preventive health, weight loss, metabolic health, and longevity.\n\nFind me on:\nInstagram: http://www.instagram.com/leonidkimmd\nTikTok: http://www.tiktok.com/@leonidkimmd\n\nReferences: \nhttps://pubmed.ncbi.nlm.nih.gov/34372670/\nhttps://www.ahajournals.org/doi/full/10.1161/atvbaha.113.302327\nhttps://pubmed.ncbi.nlm.nih.gov/33268215/\nhttps://pubmed.ncbi.nlm.nih.gov/34405289/\nhttps://pubmed.ncbi.nlm.nih.gov/12444864/\nhttps://pubmed.ncbi.nlm.nih.gov/31935216/\nhttps://pubmed.ncbi.nlm.nih.gov/22850611/\nhttps://onlinelibrary.wiley.com/doi/10.1111/j.1365-2796.2011.02401.x\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC5837225/figure/ehx144-F2/\nhttps://pubmed.ncbi.nlm.nih.gov/19091798/\nhttps://pubmed.ncbi.nlm.nih.gov/26987068/\nhttps://pubmed.ncbi.nlm.nih.gov/19228856/\nhttps://pubmed.ncbi.nlm.nih.gov/40907633/\nhttps://pubmed.ncbi.nlm.nih.gov/32147453/\nhttps://pubmed.ncbi.nlm.nih.gov/29773586/\nhttps://pubmed.ncbi.nlm.nih.gov/29326315/\nhttps://pubmed.ncbi.nlm.nih.gov/36562212/\nhttps://pubmed.ncbi.nlm.nih.gov/26764322/\nhttps://pubmed.ncbi.nlm.nih.gov/32349742/\nhttps://pubmed.ncbi.nlm.nih.gov/11583886/\nhttps://pubmed.ncbi.nlm.nih.gov/33866630/\nhttps://pubmed.ncbi.nlm.nih.gov/25705824/\n\nDISCLAIMER:\nThis video is for general information and educational purposes only and does NOT constitute the practice of medicine or other professional health services, including giving of a medical advice. NO doctor-patient relationship is formed. The use of this information and the materials provided in the video is at user\u2019s own risk.  The contents of the video are NOT intended to be a substitute for professional medical advice and are NOT intended to treat, diagnose, cure or prevent disease. You should NOT delay or disregard obtaining medical advice for any medical condition you have and you should first seek the assistance of your healthcare professional(s) for any such condition(s). You should NOT make any changes in your health regime, diet, medications, or supplements, before first consulting your physician or healthcare provider and before first obtaining a medical exam, diagnosis, and prescription/recommendation from your physician or healthcare provider. Leonid Kim MD  will not assume any liability for any direct or indirect losses or damages that may result from use of the information contained in this video, including but not limited to, economic loss, injury, illness, or death. Furthermore, all content in the video is subject to change without notice, so the content creator assumes no responsibility for the accuracy of information contained. Please review all information regarding any medical condition or use of medications and/or supplements with your physician or healthcare provider. \n\nThe contents of this video are my personal opinion and do not represent that of my employer(s).",
+    "status": "ready"
+  },
+  {
+    "id": "debbf99c-54d4-405f-acaa-738499dd07cf",
+    "title": "Eric Schmidt: Google | Lex Fridman Podcast #8",
+    "created_at": "2025-12-24T19:24:49.215+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "",
+    "status": "ready"
+  },
+  {
+    "id": "f05cc67a-b47a-48f6-8581-5d27d4d29fcb",
+    "title": "Eric Schmidt-Google Mission",
+    "created_at": "2025-12-24T19:24:49.809+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Google's mission, according to its founder Larry Page, is to organize the world's information, making it universally accessible and useful. They still believe that search can get a lot better and are working hard to make it so.\n      Google has a gl",
+    "status": "ready"
+  },
+  {
+    "id": "289e1615-d8cc-4b99-a48d-e7ce40ccaa49",
+    "title": "Historian Explains The Day Nikola Tesla Lost Everything!",
+    "created_at": "2025-12-30T18:10:27.168805+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "",
+    "status": "archived"
+  },
+  {
+    "id": "d28df9c6-075e-48ff-80aa-55e6f3251653",
+    "title": "You're Seeing This Because It's Finally Your Turn To Win - Carl Jung",
+    "created_at": "2025-12-29T15:32:28.375605+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "You're Seeing This Because It's Finally Your Turn To Win - Carl Jung\n\nCarl Jung's SHOCKING Secret to WINNING in Life\nIs Your SUBCONSCIOUS MIND Holding You Back from Success?\nTop Psychologist Reveals BEST Techniques for Achieving Your GOALS\nWhy Carl Jung's Theories Are the KEY to UNLOCKING Your True Potential\n\nCarl Jung discovered that before every major breakthrough, the psyche emits specific signals that most people miss\u2014keeping them trapped in cycles of loss. This isn't coincidence; it's synchronicity revealing your unconscious readiness to finally win.\n\nWhat You'll Learn: \n\u2022 Why we're psychologically addicted to losing and how Jung's \"Golden Shadow\" explains our fear of success \n\u2022 The three unmistakable signs that your breakthrough is imminent (Enantiodromia, loss of old patterns, and the pressure cooker feeling) \n\u2022 How self-sabotage activates right before victory and why it's your psyche resisting individuation \n\u2022 The exact psychological steps to stop identifying as the victim and claim your winner identity \u2022 Why winning isn't about luck\u2014it's about allowing your transformation and taking responsibility for your power \n\u2022 How to protect your evolution from collective unconscious pressure when others resist your success\n\nkeywords\nphilosophy, psychology, mindset, empath, empaths, carl jung jung, carl jung, carl gustav jung, philosophy, psychology\n\n#philosophy \n#psychology\n#mindset\n#empath\n#empaths\n#carljung\n#carljung #jung #psychology #carlgustavjung\n\nDisclaimer : \nCopyright Disclaimer under Section 107 of the copyright act 1976 , allowance is made for fair use for purposes such as criticism , comment , news reporting , scholarship , and research . Fair use is a use permitted by copyright statute that might otherwise be infringing . Non - profit , educational or personal use tips the balance in favour of fair use .",
+    "status": "ready"
+  },
+  {
+    "id": "d025924a-b6ee-4e7b-b755-1c64590792a1",
+    "title": "how to easily enter flow state anytime you want",
+    "created_at": "2025-12-29T15:32:56.896549+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "[social medias]\ntwitter - https://x.com/RiskAmbition\ninstagram- https://www.instagram.com/riskambition\n\n[timestamps]\n0:00 - 0:31 intro.\n0:32 - 1:25 how flow state works.\n1:26 - 3:12 the 5 core ingredients of flow.\n3:13 - 4:32 the flow trigger ritual\n4:33 - 5:52 flow and recovery.\n5:53 using flow to transform your life.",
+    "status": "ready"
+  },
+  {
+    "id": "52758b71-2aea-4bb9-b1a1-c07c806a85ae",
+    "title": "Why Beautiful Things Make us Happy \u2013 Beauty Explained",
+    "created_at": "2025-12-29T15:34:11.861518+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "It\u2019s hard to define what makes something beautiful, but we seem to know beauty when we see it. Why is that and how does beauty affect our subconscious?\n\nThis video was a collaboration with the creative agency Sagmeister & Walsh as a contribution to their upcoming Beauty exhibition at the MAK Vienna from October 23rd onwards. If you want to learn more about the impact of beauty and see tons of gorgeous installations and multi-media objects, go check it out on https://www.mak.at/en_sagmeister_walsh\nThe Beauty exhibition will also be shown in the Museum Angewandte Kunst Frankfurt from May 11th till September 15th.\n\nSources:\nhttps://sites.google.com/view/kgssourcesbeauty/startseite\n\nOUR CHANNELS\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\nGerman Channel: https://kgs.link/youtubeDE \nSpanish Channel: https://kgs.link/youtubeES \n\n\nHOW CAN YOU SUPPORT US?\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\nThis is how we make our living and it would be a pleasure if you support us!\n\nGet Merch designed with \u2764 from https://kgs.link/shop  \nJoin the Patreon Bird Army \ud83d\udc27 https://kgs.link/patreon  \n\n\nDISCUSSIONS & SOCIAL MEDIA\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\nReddit:            https://kgs.link/reddit\nInstagram:     https://kgs.link/instagram\nTwitter:           https://kgs.link/twitter\nFacebook:      https://kgs.link/facebook\nDiscord:          https://kgs.link/discord\nNewsletter:    https://kgs.link/newsletter\n\n\nOUR VOICE\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\nThe Kurzgesagt voice is from \nSteve Taylor:  https://kgs.link/youtube-voice\n\n\nOUR MUSIC \u266c\u266a\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\n700+ minutes of Kurzgesagt Soundtracks by Epic Mountain:\n\nSpotify:            https://kgs.link/music-spotify\nSoundcloud:   https://kgs.link/music-soundcloud\nBandcamp:     https://kgs.link/music-bandcamp\nYoutube:          https://kgs.link/music-youtube\nFacebook:       https://kgs.link/music-facebook\n\nThe Soundtrack of this video:\n\nSoundcloud: https://bit.ly/2ytFTlY\nBandcamp: https://bit.ly/2PM9H3N\nFacebook: https://bit.ly/2GIoZlH\n\n\n\ud83d\udc26\ud83d\udc27\ud83d\udc24 PATREON BIRD ARMY \ud83d\udc24\ud83d\udc27\ud83d\udc26\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\nMany Thanks to our wonderful Patreons from http://kgs.link/patreon who support us every month and made this video possible:\n\nColm Foley, Simulation, AndreasEngl, JenDorris, VladFaust, IvanAracki, JackLaw-Warschaw, agadmators_bitch, SamuelBryan, TristanBurgener, CharlotteRobinson, Cristi\u00e1nM\u00e9ndez, jasonrini, HamishMcDonald, RyanJudy, Quintthekid, MayteeChinavanichkit, GerardoVeltri, EthanCussatt, TheBoomguy64, TillKr\u00fcss, MouscadetBenjamin, Bal\u00e1zsSuhajda, GuyStrauss, NathanFish, ArtemChubaryan, HetalSagar, LaurenAtkins, TheBestPessimist, Zden\u011bkSkl\u00e1\u0159, AxelEssbaum, GeorgeEilender, RohinrajAravindakshan, JackGado, Nicholas, ValentinDuval, Luk\u00e1\u0161H\u00e1na, IvanHarasymchuk, MarcHadel, OhadRavid, NathanielShafou, TomBristol, MariusT\u00eerc\u0103, MinhHi\u1ebfu, MisterWow, AlexisHevia, MichaelRootare, S\u00f6renPeters, IlkkaSavilampi, Crypton, MassimoFrieri, RyanBrown, johannestoale, WilliamPham, JosephFraser, Dave, ThomasBraud, NevenPintari\u0107, Josiah, Enderchangling, Semnodime, IanHecht, LexSteers, IMysteryI, AndrewBoyer, RyanMcDaniel, LewisZiebarth, Chirag, RamseyElbasheer, DaichuanWu\n\n\nHelp us caption & translate this video!\n\nhttps://www.youtube.com/timedtext_cs_panel?c=UCsXVk37bltHxD1rDPwtNM8Q&tab=2",
+    "status": "ready"
+  },
+  {
+    "id": "f8d118e9-63d4-40f6-b86d-1b919a8fc898",
+    "title": "What Music Is | The Documentary",
+    "created_at": "2025-12-29T15:33:42.312277+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "What Music Is brings together astronomy, neuroscience and more into a new theory of music's role in our species. \n\nJoin the creators of the show with orchestra: writer and composer Bill Barclay (@barclayarts), Shawn Feeney, and conductor Thomas Heuser, as they discuss their collaboration and the themes of forthcoming book.\n\nFollow us on Instagram @whatmusic \n\nVideography and editing by Peyton Rutkowski\n\nFor more information, visit Concert Theatre Works\n\nhttps://concerttheatreworks.com/portfolio/what-music-is/",
+    "status": "ready"
+  },
+  {
+    "id": "ba9a1ad7-dc6d-4c34-ba87-f7348f4a96fa",
+    "title": "This is what separates rich from everyone else #wealthmindset #success #mindset",
+    "created_at": "2025-12-29T15:57:45.890828+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Codie Sanchez reveals what truly separates the rich from everyone else \u2014 and it\u2019s not luck, talent, or working harder. \ud83d\udca1\nIn this video, Codie breaks down the exact mindset shift, decision-making habits, and ownership principles that wealthy people use to stay ahead while most people stay stuck.",
+    "status": "ready"
+  },
+  {
+    "id": "9319d553-1ca4-4d68-9981-7b6b510caf1e",
+    "title": "Eric Schmidt: Former CEO of Google \u2013 Gratitude, Values, AI, Hyper-Intelligence, & Throughput.",
+    "created_at": "2025-12-24T19:24:50.103+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "In this episode, The Gstaad Guy sits down with Eric Schmidt, former CEO and Chairman of Google, to explore how gratitude and human values can coexist with rapid technological acceleration. From the role of AI in reshaping productivity to the dawn of hyper-intelligence, Eric shares his thoughts on how to remain grounded in an age defined by algorithms.\n\nThe conversation touches on the ethical responsibilities of tech leadership, the importance of human freedom in a machine-driven world, and how embracing gratitude can offer clarity amid complexity. With a rare mix of philosophical depth and operational insight, Eric unpacks what it means to build and live intentionally in the future we\u2019re all rushing toward.\n\nFilmed at Nobel LA\u2019s Benedict property.\n\nTimestamps:\n0:00 Intro \u2728\n2:00 \u201cDo you feel a sense of responsibility to act on knowledge and intellect that you have?\u201d \ud83d\udcd6\ud83e\udde0\n3:40 Scale the next generation \ud83d\udcc8\n5:30 \u201cWhat were those values that you were looking for in Larry and Sergey?\" \ud83d\udd0d \ud83e\udd1d\n6:55 Principles of Command \u2712\ufe0f \ud83d\udcdc \ud83d\udc49\n10:00 Having conversations with the aim of learning \ud83d\udcac \ud83d\udcda \ud83e\udde0\n12:33 \u201cI believe you can run your professional life through a commitment to detailed planning, detailed thinking, and command\u201d \ud83d\udcc6 \ud83e\udd14 \ud83d\udc49\n13:29 \u201cHow do you reduce friction in your life?\u201d \ud83d\udeab \ud83d\udc0c\n15:35 \u201cLatency is the enemy of productivity\u201d \u23f3 \ud83d\ude80\n17:20 \u201cWe\u2019ve shifted from economics of scarcity to scarcity of attention\u201d \ud83d\udcb0 \ud83d\udcca \u26a0\ufe0f\n21:16 \u201cWhy was there never an in between of the \u201csearch\u201d and the application of algorithms?\u201d \ud83d\udd0e \ud83d\udcbb\ud83c\udf10\n23:41 Gresham\u2019s Law \u2696\ufe0f\n25:22 \u201cWould the Gstaad Guy be a good boyfriend?\u201d \ud83c\udde8\ud83c\udded \ud83c\udfd4\ufe0f \u2764\ufe0f\n28:00 \u201cDo you find yourself managing to outsmart AI, and still make a conscious decision?\u201d \ud83e\udd13 \ud83e\udd16\n32:16 \u201cDo you see a world where instead of algorithms finding content to feed you, they actually make it for you?\" \ud83d\udcbb \ud83c\udf10 \ud83c\udfa5\n34:29 Dude With Sign \ud83e\udea7\n36:57 \u201cWould you ever create a digital extension of yourself (Eric Schmidt), so people can ask you questions?\" \ud83d\udcbb \ud83e\udd33 \u2753\n40:12 \u201cDoing consumer things that manipulate human behaviour\u201d \ud83c\udfad \ud83d\ude43\n41:03 \u201cWill there be a change in hardware where conversations with phone will not be limited by thumb and speaking speed?\u201d  \ud83d\udd04 \ud83d\udcf1\n42:33 \u201cHow do you personally switch off?\" \ud83c\udf9a\ufe0f \ud83d\udcf4\n44:08 The impact of the internet on the way people live and move \ud83c\udf10 \ud83d\ude0e\n45:57 \u201cIf you were to design a city, where would you start?\u201d \ud83c\udfd9\ufe0f \ud83e\uddd1\u200d\ud83c\udfa8\n48:11 The gift of the next generation \ud83c\udf81 \u23ed\ufe0f \ud83e\uddd1\u200d\ud83e\uddd2\n50:45 \u201cShould there be a maximum age to be a president?\u201d \ud83d\udd1e \ud83d\udc68\u200d\ud83d\udcbc\n52:17 \u201cShould founders find a replacement after a certain period of time?\u201d \ud83d\udc64 \ud83d\udd01 \ud83d\udc64\n\nLISTEN TO US ON:\nSpotify: https://open.spotify.com/show/4kyOYwC4EQYjJfK3KbWrI5?si=05109015bad24fbe \nApple Podcasts: https://podcasts.apple.com/gb/podcast/the-gstaad-guy-podcast/id1815806949\n\nFOLLOW US ON:\nInstagram: https://www.instagram.com/gstaadguypodcast/\nTikTok: https://www.tiktok.com/@gstaadguypodcast\n\n#GstaadGuy #ItsAllFamily",
+    "status": "ready"
+  },
+  {
+    "id": "bb17dc86-8913-4b9d-9067-a4cbeebba9d7",
+    "title": "44 Harsh Truths About The Game Of Life - Naval Ravikant (4K)",
+    "created_at": "2025-12-24T19:24:50.179+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Go see Chris live in America - https://chriswilliamson.live\n\nNaval Ravikant is an entrepreneur, investor and co-founder of AngelList.\n\nWhat does it mean to win at the game of life? Is it tons of wealth, pure happiness, infinite time, or a loving family? Today we explore the timeless question of what it means to truly live well.\n\nExpect to learn the true price of success, whether sacrificing your happiness is worth it, what advice Naval would give to his younger self, what the true source of unhappiness is for most people, how to overcome low self-esteem, what Naval would add to his \u2018How To Get Rich\u2019 thread, how to become comfortable being unapologetically selfish, what Naval sees as the next big trends in science and technology, his take on the escalating culture wars, how to get comfortable with death and overcoming grief, the best and worst ways to spend your wealth and much more\u2026\n\n\n00:00 Is Success Worth It?\n07:43 Ways To Shortcut Our Desires\n10:47 Is Changing Our Opinions Hypocritical?\n14:35 How To Become Less Distracted By Status Games\n21:02 Ways To Raise Your Self-Esteem\n29:46 Why Pride Is The Most Expensive Trait\n32:19 Identifying Our Happiness\n44:22 The Key To Being Your Authentic Self\n49:08 Objectively Viewing Our Own Mind\n1:00:40 How Can We Avoid Cynicism And Pessimism Within Ourselves?\n1:07:20 What Is Happiness?\n1:21:24 Learning How To Deal With Anxiety\n1:28:07 Optimising Our Quality Of Life\n1:32:36 Why We Can't Change Other People\n1:45:22 Why We Shouldn't Take Ourselves Too Seriously\n1:52:38 How Being Observant Of Yourself Allows Change\n2:00:23 Why Did Naval Come On This Podcast?\n2:09:31 The Best And Worst Places To Spend Wealth\n2:18:03 Philosophical Beliefs\n2:23:55 Recent Insights Into Naval's Opinions \n2:30:50 Are People Choosing To Have Less Kids?\n2:37:40 Trusting Our Instincts Throughout Parenthood\n2:50:26 What Does The Future Of The Culture Wars Look Like?\n2:59:01 What Is Currently Ignored By The Media But Will Be Studied By Historians?\n3:11:49 Is There An Advantage To Starting Out As A Loser?\n3:15:20 Naval's Foreseeable Plans\n\n-\n \nGet $350 off the Pod 4 Ultra at https://eightsleep.com/modernwisdom (use code MODERNWISDOM)\n\nGet the best bloodwork analysis in America at https://functionhealth.com/modernwisdom\n\nGet a Free Sample Pack of all LMNT Flavours with your first purchase at https://drinklmnt.com/modernwisdom\n\nGet 35% off your first subscription of the best supplements from Momentous at https://livemomentous.com/modernwisdom\n\n-\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/",
+    "status": "ready"
+  },
+  {
+    "id": "0e235d6d-d930-4b3b-9e25-f49ded9f8883",
+    "title": "How's Life with John Mayer - Conan O'Brien  FULL INTERVIEW",
+    "created_at": "2025-12-24T19:24:50.548+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "",
+    "status": "ready"
+  },
+  {
+    "id": "e774365d-5a7b-46c8-8ffa-ee27e459f284",
+    "title": "The complete FUN TO IMAGINE with Richard Feynman",
+    "created_at": "2025-12-26T23:08:00.44+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "You can find an HD upload at https://youtu.be/nYg6jzotiAc\n\nAll six original 'Fun to Imagine' episodes and stories in one video - total 66 minutes. Richard Feynman was a theoretical physicist and lover of life who, along with his many other accomplishments, won a Nobel Prize in 1965 for his work on quantum electrodynamics. Here he enjoys himself thinking aloud about the nature of Nature... Originally recorded on 16mm film at Feynman's home in Altadena, California, in 1983, and first broadcast on BBC2.\n\n0:00 Intro\n0:50  Jiggling Atoms\n7:18  Fire\n12:08  Rubber Bands\n14:53  Magnets\n22:29  Electricity\n32:05  Mirror and Train puzzles\n37:46  Seeing Things\n43:43  Big Numbers\n55:01  Ways of Thinking",
+    "status": "error"
+  },
+  {
+    "id": "ae0db252-1e8a-4d7d-94ae-edd8fe082b5a",
+    "title": "12 Step method of setting goals - Brian Tracy 2024",
+    "created_at": "2025-12-30T18:18:46.616725+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "S U B S C R I B E  to our channel and find out more about rules of success.\nWATCH also Brian's ULTIMATE TIPS FOR SUCCESS:\nhttps://www.youtube.com/watch?v=iFeCrkCeZjk&t=46s",
+    "status": "ready"
+  },
+  {
+    "id": "4b05c470-55bd-402a-87ef-edb1293b2b43",
+    "title": "Every Investor Should Invest in Japan",
+    "created_at": "2025-12-30T18:18:55.236823+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Warren Buffett recently increased his exposure to Japanese stocks to a whopping $30 billion. Maybe it's time to start considering an investment in one of the world's largest economies. If you're wondering how to invest in Japanese stocks, you've come to the right place. In this video, we'll explain the reasons for investing internationally, and we'll also tell you how you can get exposure to Japan in your own portfolio.\n\nRESEARCH PIECES USED IN THIS VIDEO:\n1. Top 10 Artificial Intelligence Startups in Japan\nhttps://www.nanalyze.com/2019/02/artificial-intelligence-japan/\n\nCHAPTERS:\n00:00 Intro\n00:41 The importance of international diversification\n04:00 Why invest in Japanese stocks?\n05:32 Japan stock ETFs\n07:14 Individual Japanese stocks\n08:16 Why we're covering foreign stocks\n09:14 Japan and technology\n09:39 Difficulties of investing in other countries\n11:22 How to invest in Japanese stocks\n12:45 Conclusion\n\nABOUT US:\nThis video is brought to you by Nanalyze, a media and research firm founded by finance professionals with decades of experience. We share insights about #DisruptiveTechnology #stocks in a language that is future-proof and easy to understand.\n\nRead all the Nanalyze Premium articles you'd like for free! Sign up for a 30-day trial of our monthly subscription with no strings attached: https://www.nanalyze.com/become-a-nanalyze-premium-subscriber/\n\nDISCLAIMER: Our content is intended to be used and must be used for informational purposes only. It is very important to do your own analysis before making any investment based on your own personal circumstances. You should take independent financial advice from a professional in connection with, along with independently researching and verifying, any information contained within our YouTube videos or on our website, whether for the purpose of making an investment or otherwise.\n\n$EWJ\n#japan",
+    "status": "ready"
+  },
+  {
+    "id": "be3b4603-0da5-4430-a010-dad7483c3930",
+    "title": "The Two Sides of Walt Disney",
+    "created_at": "2025-12-29T16:12:29.4058+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Behind his wholesome public persona, Walt Disney had a darker side. This exclusive clip from the PBS special \u201cAmerican Experience: Walt Disney,\u201d airing at 9 p.m. ET on Sept. 14 and 15, takes a look at both sides of the legend. Photo/video: American Experience/WGBH.\n\n\nSubscribe to the WSJ channel here:\nhttp://bit.ly/14Q81Xy\n\nMore from the Wall Street Journal:\nVisit WSJ.com: http://www.wsj.com\n\nFollow WSJ on Facebook: http://www.facebook.com/wsjvideo\nFollow WSJ on Google+: https://plus.google.com/+wsj/posts\nFollow WSJ on Twitter: https://twitter.com/WSJvideo\nFollow WSJ on Instagram: http://instagram.com/wsj\nFollow WSJ on Pinterest: http://www.pinterest.com/wsj/ \nDon\u2019t miss a WSJ video, subscribe here: http://bit.ly/14Q81Xy\n\nMore from the Wall Street Journal: \nVisit WSJ.com: http://www.wsj.com\nVisit the WSJ Video Center: https://wsj.com/video\n\nOn Facebook: https://www.facebook.com/pg/wsj/videos/\nOn Twitter: https://twitter.com/WSJ\nOn Snapchat: https://on.wsj.com/2ratjSM",
+    "status": "ready"
+  },
+  {
+    "id": "01cce67f-68c1-45e3-835b-987710aff79f",
+    "title": "How to Master ANYTHING in Life | Polymath Guide",
+    "created_at": "2025-12-29T16:11:47.413982+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Whether you are having trouble managing multiple interests, naturally curious about everything, or believe that there is more to life and want to aspire greater, I will cover the philosophy & meaning behind polymathy, why it matters & is the perfect time to become a polymath in today's society, and how you can become one.\n\nSpread the message of polymathy and become a master of all trades.\n\nJoin our Discord Community (free):\nhttps://dsc.gg/Zendicave\n\nFollow my socials\nInstagram: https://instagram.com/Zendicay\nTwitter: https://x.com/Zendicay\nTikTok: https://tiktok.com/@Zendicay\nDiscord: @zendicay\n\n0:00 - Intro\n0:50 - Chapter 1: Why Polymathy Matters\n3:34 - Chapter 2: Self Actualization\n7:29 - Chapter 3: Learn How To Learn\n12:42 - Outro",
+    "status": "ready"
+  },
+  {
+    "id": "eaf696da-6363-4a42-8ca4-a33bc97049b7",
+    "title": "The price of not choosing yourself",
+    "created_at": "2025-12-30T01:55:09.968106+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Jim Carrey\u2019s Speech on Fear, Purpose, and Choosing Yourself\n\n// NEWSLETTER: https://a-last-stair.beehiiv.com/\n\n// Support my channel:\nbuymeacoffee.com/alasta1r",
+    "status": "ready"
+  },
+  {
+    "id": "f216b916-badd-4c62-a639-3b7d3d60ce4f",
+    "title": "Aang Gets Advice From Past Avatars \u2b07\ufe0f Full Scene | Avatar: The Last Airbender",
+    "created_at": "2025-12-31T07:37:02.007662+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "While Aang was struggling to come to terms with his role in ending the 100 Years War and the implications of his final battle against Firelord Ozai \u2013 he called upon his prior Avatar incarnations for help.  Avatar Roku, Avatar Kyoshi, Avatar Kuruk, and Avatar Yangchen didn't exacty tell Aang what he wanted to hear, but their sage wisdom was still impactful in helping Aang shape his own path and ultimately deciding to take away Ozai's bending.\n\nSubscribe for More Avatar: https://at.nick.com/AvatarSubscribe\nWatch More Avatar: https://at.nick.com/AvatarYouTube\n\n\u25ba\u25ba Watch More from Nick: https://at.nick.com/NewNickVideos \n\u25ba\u25ba SpongeBob on YouTube: https://at.nick.com/SpongeBobOfficial\n\u25ba\u25ba NickRewind on YouTube: https://at.nick.com/NickRewind\n\u25ba\u25ba All That on YouTube: https://at.nick.com/AllThat \n\u25ba\u25ba America\u2019s Most Musical Family on YouTube: https://at.nick.com/AMMF\n\u25ba\u25ba What\u2019s On TV? : https://at.nick.com/TVSchedule \n\n#Avatar #AvatarTheLastAirbender #Nickelodeon\n\nGET MORE AVATAR: THE LAST AIRBENDER \n\u25ba\u25ba Like Avatar: The Last Airbender on Facebook: https://at.nick.com/AvatarFacebook\n\u25ba\u25ba Like Avatar: The Last Airbender on Instagram: https://at.nick.com/AvatarIG\n\nGET SOCIAL WITH NICKELODEON:\n\u25ba\u25ba Like Nick: https://at.nick.com/Facebook \n\u25ba\u25ba Follow Nick: https://at.nick.com/Twitter \n\u25ba\u25ba Nick Instagram: https://at.nick.com/NickIG \n\u25ba\u25ba Nick Snapchat: https://at.nick.com/NickSnapchat  \n\u25ba\u25ba Like NickRewind: https://at.nick.com/NickRewindFacebook\n\u25ba\u25ba Follow NickRewind: https://at.nick.com/NickRewindTwitter \n\u25ba\u25ba NickRewind Instagram: https://at.nick.com/NickRewindIG  \n\u25ba\u25ba Nick Tumblr: https://at.nick.com/Tumblr \n\u25ba\u25ba Pin Nick: https://at.nick.com/Pinterest \n\u25ba\u25ba Visit the Official Site: https://at.nick.com/Official \n\u25ba\u25ba Get the App: https://at.nick.com/App  \n\nWelcome to the Avatar: The Last Airbender channel\u2013\u2013 the ultimate home for all things Avatar!  Here you will find the best uncut battles from the series, deep dives into the expansive lore of the world, and the most memorable moments from all of your favorite characters from Aang to Zuko.  On top of that, there will be plenty of Legend of Korra, graphic novel features, and even more exciting original content!  You don\u2019t need a sky bison to swing on by to the Avatar: The Last Airbender channel every Monday, Friday, and Saturday for new videos!  \n\nSubscribe to join Team Avatar and be the first to get notified of exclusive original content you won\u2019t find anywhere else!",
+    "status": "ready"
+  },
+  {
+    "id": "9350aa85-5c02-4f0b-9bef-2f3fd67bb58e",
+    "title": "LEVELS [1: INTRODUCTION]",
+    "created_at": "2025-12-24T19:24:48.08+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "This is your formal introduction to the \"Levels of thinking\" chart I use in so many of my videos.\n\nSIGN UP FOR INTEGRAL LIFE\nhttps://integrallife.com/hoemath\n\nGET THE LEVELS CHART HERE: \nhttps://www.patreon.com/hoe_math/shop/new-levels-chart-introduction-basics-1873421?source=storefront\n\nWhen I started making TikToks about how cranky and intolerable women are on social media, I used a psychological framework to help my viewers understand why people behave the way they do.\n\nI made a quick video on YouTube to explain, and it took off. It's still my most popular video [Last measured Oct 05, 2025]. I should have charged a lot more for the ad.\n\nI've been promising to make more videos about levels for over a year now, but I have never had the time to do it right.\n\nUntil now.\n\nThis is the first of at least 8 videos I have planned to explain the levels of thinking, how they work, how to see them in others, and how to use them to solve problems.\n\nThis is just the introduction. You'll get to know what levels are, what they look like, why they matter, and what problems they cause when they're not working properly.\n\n\u2b07\ufe0fEVERYTHING I DO\u2b07\ufe0f\nhttps://linktr.ee/hoe_math\n\n\u2b07\ufe0fSELF-MAX: AI LIFE COACH BY hoe_math\u2b07\ufe0f\nhttps://selfmax.ai\n\n\u2b07\ufe0fPOSTERS, T-SHIRTS, ETC.\u2b07\ufe0f\nhttps://hoemath.dashery.com",
+    "status": "ready"
+  },
+  {
+    "id": "d1e2b5a3-f0e0-4e13-bea5-a91b8fcf9ee3",
+    "title": "random",
+    "created_at": "2025-12-27T19:15:34.690176+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "",
+    "status": "ready"
+  },
+  {
+    "id": "3cce0728-9e42-4acd-9537-6375018cd185",
+    "title": "random2",
+    "created_at": "2025-12-27T20:15:50.477592+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "",
+    "status": "ready"
+  },
+  {
+    "id": "ef172224-4903-4c0a-b808-ccad77a195bb",
+    "title": "Why The Rarest Personality Succeeds Later In Life \u2013 Carl Jung",
+    "created_at": "2025-12-30T05:46:10.538111+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Most people believe success has an expiration date. If it doesn\u2019t happen early, they assume something is wrong with them. Carl Jung rejected that idea completely.\n\nJung believed that life unfolds in two distinct halves. The first half is about adaptation\u2014building identity, status, security, and social approval. The second half, however, is where true differentiation begins. Meaning replaces ambition. Depth replaces speed. And for a rare personality type, this shift becomes a massive advantage.\n\nThis video explores why some individuals struggle early in life yet become exceptionally powerful, clear, and successful later on. Why they stop chasing validation. Why they grow calmer as others panic. And why their influence increases with age instead of declining.\n\nYou\u2019ll discover:\n\nWhy early success can actually sabotage long-term fulfillment\n\nHow a divided psyche keeps most people trapped in shallow goals\n\nWhy the rare personality aligns with time instead of fighting it\n\nHow integration, not hustle, creates late-life dominance\n\nIf you\u2019ve ever felt out of sync with society\u2019s timeline\u2026 if status, approval, and noise never truly motivated you\u2026 this video will explain why\u2014and why your most powerful years may still be ahead.\n\nThis is not motivation.\nThis is psychological reality.",
+    "status": "ready"
+  },
+  {
+    "id": "adb7acc2-0328-4cea-a913-0450fa918660",
+    "title": "\"Do nothing? Offer him up as bait?\" | Harry Potter and the Goblet of Fire",
+    "created_at": "2025-12-31T06:06:37.503257+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "\u201cPotter is a boy! Not a piece of meat!\u201d\n\nProfessor Minerva McGonagall (Dame Maggie Smith), Professor Severus Snape (Alan Rickman), Alastor \u2018Mad-Eye\u2019Mood (Brendon Gleeson) and Professor Albus Dumbledore (Michael Gambon) discuss Harry Potter (Daniel Radcliffe\u2019s) participation in The Triwizard Tournament.   \n\nWhen Harry Potter\u2019s name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools \u2013 the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He-Who-Must-Not-Be-Named. In this fourth film adaptation of J.K. Rowling\u2019s Harry Potter series, everything changes as Harry, Ron and Hermione leave childhood forever and take on challenges greater than anything they could have imagined.\n\nHarry Potter Blu-Ray and DVD available at selected retailers.\n\nJ.K.Rowling\u2019s Wizarding World & \u00a9 Warner Bros.\nCast: Daniel Radcliffe, Emma Watson, Rupert Grint\nDirector: David Yates\n\nProducers: David Barron, Debbi Bossi, Roy Button, David Heyman, Tim Lewis, J.K. Rowling, John Trehy, Lionel Wigram\nWriting Credits: J.K Rowling (novel), Steve Kloves (screenplay)\n\nThe Harry Potter channel is the only official and largest collection of licensed movie clips from J.K Rowling\u2019s Wizarding World. Here you will find all of your favourite lines, moments, and memories from all your favourite Harry Potter films.\n\nFacebook: https://www.facebook.com/harrypottermovie/\nTwitter: https://twitter.com/HarryPotterFilm\nInstagram: https://www.instagram.com/harrypotterfilm",
+    "status": "ready"
+  },
+  {
+    "id": "87c4aab6-af4f-4663-bea4-3ebe401f3a86",
+    "title": "RICKYSROOM Anna Claire Clouds and Ivy Lebelle are down to get stretched out",
+    "created_at": "2025-12-31T07:37:44.071957+00:00",
+    "profile_id": "48c25c45-5d0a-4f82-8b58-ac8b161e7ae3",
+    "description": "",
+    "status": "ready"
+  },
+  {
+    "id": "0fdb9971-ad0d-495b-b6d7-38cdbf408b93",
+    "title": "The Mental Game of Python - Raymond Hettinger [synced version]",
+    "created_at": "2025-12-24T19:24:48.166+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "All credit goes to SF Python: https://www.youtube.com/channel/UC51aOZF5nnderbuar5D5ifw \nTimestamps (credit: \u0421\u0442\u0430\u043d\u0438\u0441\u043b\u0430\u0432 \u041a\u0443\u043f\u0440\u044f\u0445\u0438\u043d):\n\n00:00 Intro\n02:47 Overview of strategies\n05:41 Strategy: Chunking and Aliasing\n09:36 Example: Random module\n22:05 Strategy: Solve a related but simpler problem\n23:09 \"The Feynman Algorithm\"\n35:58 Strategy: Build classes independently and let inheritance discover itself\n47:32 Strategy: Repeat tasks manually until patterns emerge, then move to a function\n1:04:15 Strategy: Consider object oriented programming as a graph traversal problem\n\nVideo synced using Blender. \n\nOriginal video: https://www.youtube.com/watch?v=UANN2Eu6ZnM\nOriginal Description:\nThis talk was presented at PyBay2019 - 4th annual Bay Area Regional Python conference. See pybay.com for more details about PyBay and click SHOW MORE for more information about this talk.\n\nDescription\nor \"Strategies learned from coaching, teaching, and StackOverflow\"\n\nIf you work with thousands of developers, ranging from the experienced to the aspirational, you can see what patterns of thought seem to confer success. Raymond shares what he\u2019s seen that works best for developing problem solving skills, learning how to learn, how to get unstuck, and reliable strategies for managing complexity.\n\nThe talk includes live coding examples to make these ideas concrete.\n\nAbout the speaker\nPython core developer. Certified Public Accountant. Freelance programmer/consultant/trainer. Husband to Rachel. Father to Matthew.\n\nSponsor Acknowledgement\nThis and other PyBay2019 videos are via the help of our media partner AlphaVoice (https://www.alphavoice.io/)!",
+    "status": "ready"
+  },
+  {
+    "id": "ad1383b5-a36d-4e2e-ab34-5c38cedbbd36",
+    "title": "Why I Love Stocks",
+    "created_at": "2025-12-24T19:24:48.365+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "\ud83c\udf89 5,000+ Member Patreon: https://www.patreon.com/josephcarlson\n\ud83d\ude80 Growth Portfolio: https://click.linksynergy.com/deeplink?id=5mNcifgFllM&mid=50362&murl=https://dashboard.m1.com/share?token=39d17ae6-4a4a-3fc4-bb15-d86abe3fbb67\n\ud83d\udcb5 Dividend Portfolio: https://click.linksynergy.com/deeplink?id=5mNcifgFllM&mid=50362&murl=https://dashboard.m1.com/share?token=3b283352-1bff-31d9-8576-f5770c2bfdfd\n\nQUALTRIM.COM & PATREON (Includes free trial)\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\nJoin Here: https://www.patreon.com/josephcarlson \n\nThe Patreon Membership includes Qualtrim.com, membership to a private discord community, and hundreds of exclusive episodes.\n\n\ud83d\udcda My favorite Investing Books: https://amzn.to/3KwyIhG\n\ud83d\udcf7 All the tech I use to record videos: https://www.amazon.com/shop/josephcarlson/list/2L5YMP4DFYA8O?ref_=cm_sw_r_cp_ud_aipsflist_aipsfjosephcarlson_FAKKKMYKF486ZR6H2DSQ\n\nSOCIAL MEDIA \n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\n\ud83c\udfa5 More free content: https://www.youtube.com/channel/UCbta0n8i6Rljh0obO7HzG9A\n\ud83d\udc26 I post random thoughts on Twitter too: https://twitter.com/joecarlsonshow\n\nDISCLAIMER\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\nI am not a professional investor and have never claimed to be. I'm an amateur investor sharing my experience of what I've learned, where I have had success, and where I've had failures. I share my thoughts on investing and performance with transparency. My approach and goal to investing is to buy high-quality long-term investments in world-class businesses that I call \"compounders\". I view my investments as businesses, not as stocks. Before creating content on YouTube full time I worked as a senior-level programmer for 8 years. Over the years as a programmer, I compounded my knowledge of development. I take the same iterative learning approach to my study of investing. I study investing as a craft in the continual pursuit of being better. I will make mistakes in investment decisions from time to time. Results are not guaranteed. Please do not blindly follow me into any investments, and make sure your portfolio and investments are built around your specific income, risk tolerance, personality, timeline, and overall circumstances.",
+    "status": "ready"
+  },
+  {
+    "id": "56752761-64c6-4f1a-adaa-a2f72b5a4414",
+    "title": "Dave Gahan ft Lana Del Rey - Illusion (VNV Nation AI Cover)",
+    "created_at": "2025-12-26T17:10:11.974+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "#davegahan #depechemode #lanadelrey #vnvnation #illusion #aicover \n\nIllusion is a song by Irish alternative electronic project VNV Nation.\n\nThere is never been an official video of this song, but it usually mixed with Andy Huang`s \"Doll Face\" animation and it looks like it belongs together.\n\nThis cover is copyrighted and the copyright owner allows the content to be used on this platform.\n\nThis channel isn't monetized; all the proceeds from videos are sent to the copyright owners. \n\nIf you like what I do, you can buy me a drink :)  \nPayPal.me:  https://paypal.me/MusicMode1\n\nFollow original artists: @davegahan6748 @LanaDelRey @vnvnationofficial",
+    "status": "ready"
+  },
+  {
+    "id": "627c3a87-65fb-4c7b-819f-fa4c63f37811",
+    "title": "Facial Bloating: Why Your Face Looks Puffy & How To Fix It!",
+    "created_at": "2025-12-24T19:24:48.477+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "\u2192 Get your own Facial Analysis: https://qoves.com\n\nIn this step-by-step guide, we present six simple methods you can apply at home to reduce facial bloating. We explain the biological mechanisms that cause a puffy face, fluid retention, and morning swelling and show science-backed ways to address these issues.\n\n\nFor full in depth beauty protocols, follow us on X: https://x.com/qovesstudio\n\nFollow us on Instagram for short content: https://www.instagram.com/qovesstudio/\n\nMedical Disclaimer: The information in this video is provided solely for educational and informational purposes. It does not constitute medical advice and must not be used to diagnose, treat, cure, or prevent any health condition. Always speak with a qualified healthcare professional before adjusting your diet, exercise routine, supplements, or health practices\u2014especially if you have a medical condition or take medication. Your health remains your responsibility.",
+    "status": "ready"
+  },
+  {
+    "id": "d986b39b-26c7-4805-8f01-5668bd3a82e8",
+    "title": "Eric Schmidt on How Google Works",
+    "created_at": "2025-12-24T19:58:02.143+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Google executive discusses wide ranging issues with Merit E. Janow, Dean of the School of International and Public Affairs",
+    "status": "ready"
+  },
+  {
+    "id": "90e99714-0db1-4f3b-9c1a-f6263e9b22e9",
+    "title": "The Regret You Don\u2019t See Coming In Your 20's & 30's - Alex Hormozi",
+    "created_at": "2025-12-24T19:24:48.67+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Chris and Alex Hormozi discuss advice for men entering their 30s. Who is happiest in their 30s according to Alex Hormozi? How does Alex Hormozi recommend you spend your 20s? How to \n\nSign up for a one-dollar-per-month trial period from Shopify at https://shopify.com/modernwisdom (automatically applied at checkout)\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/",
+    "status": "ready"
+  },
+  {
+    "id": "cf742502-bd88-41b8-972d-d9c2b052e462",
+    "title": "Step Sis and Step Bro Found Their Step Parent's Sex Photos",
+    "created_at": "2025-12-31T07:40:58.867969+00:00",
+    "profile_id": "48c25c45-5d0a-4f82-8b58-ac8b161e7ae3",
+    "description": "",
+    "status": "ready"
+  },
+  {
+    "id": "953dc9d5-9f2f-4b92-84c6-322afd424d3f",
+    "title": "Increasing Your Income 1000% Formula",
+    "created_at": "2025-12-24T19:34:54.283+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Learn Brian Tracy's strategy of increasing Your Income 1000% is based on the law of incremental improvement, the principal of continuous betterment.  There is a a thing in success called the \"momentum principal.\"  This means once you get going, it becomes easier and easier to keep going and and to go faster and faster.  You become more efficient, get more things done, become more productive and set better priorities.  If you work 26% more efficiently every year for 10 years you will be 1004% better.  For further information, please visit www.homebuyingbytheexperts.com.  Brian Tracy is a leading motivational speaker and co-author of the best-seller, Home Buying by the Experts.  HouseRebate.com -- Share the Wealth!!",
+    "status": "ready"
+  },
+  {
+    "id": "1a92377d-a7c8-4736-9e29-deab57afb67f",
+    "title": "The Polymath Method: How To Master Any SKILL!",
+    "created_at": "2025-12-24T19:47:58.857+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Have you ever wondered why some people learn easily while others face difficulties? What from Vinci, Benjamin Franklin and Marie Curie had in common?\n They were polymates - brilliant minds that dominated various areas of knowledge. But is there still room for this kind of genius in the modern world?\n\n\ud83d\udccc In today's video, you will learn:\nWhat is a polymate and how to develop this mindset\n Strategies to learn faster and efficiently\n How to integrate different areas of knowledge to innovate\nThe importance of curiosity, discipline and active learning\n How to use technology to your advantage and avoid distractions\n\n\ud83d\udd14 If you want to unlock your true potential, don't miss this video!\n\ud83d\udc49 Subscribe to the channel and enable notifications to more content like this!\n\n\n- Thanks For Watching!",
+    "status": "ready"
+  },
+  {
+    "id": "8a91b11b-2481-48a1-bcf4-7eb18e0a2d68",
+    "title": "Munger: 'A life properly lived is just learn, learn, learn'",
+    "created_at": "2025-12-24T19:24:49.915+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "In this 2017 clip from CNBC's Warren Buffett Archive, Charlie Munger explains why making mistakes is vital to success.",
+    "status": "ready"
+  },
+  {
+    "id": "83a65d1e-6bdd-486f-9b48-d910584e84aa",
+    "title": "Richard Feynman Computer Science Lecture - Hardware, Software and Heuristics",
+    "created_at": "2025-12-26T23:12:12.272+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Donate and Support this Channel: https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=BLJ283JMTMT7S\nIntroduction Article to Heuristics and Metaheuristics: http://muonray.blogspot.ie/2016/04/meta-heuristics-and-universal-power-law.html\nRichard Feynman, Winner of the 1965 Nobel Prize in Physics, gives us an insightful lecture about computer heuristics: how computers work, how they file information, how they handle data, how they use their information in allocated processing in a finite amount of time to solve problems and how they actually compute values of interest to human beings. These topics are essential in the study of what processes reduce the amount of work done in solving a particular problem in computers, giving them speeds of solving problems that can outmatch humans in certain fields but which have not yet reached the complexity of human driven intelligence. The question if human thought is a series of fixed processes that could be, in principle, imitated by a computer is a major theme of this lecture and, in Feynman's trademark style of teaching, gives us clear and yet very powerful answers for this field which has gone on to consume so much of our lives today. \n\nNo doubt this lecture will be of crucial interest to anyone who has ever wondered about the process of human or machine thinking and if a synthesis between the two can be made without violating logic.",
+    "status": "ready"
+  },
+  {
+    "id": "c240634b-280b-4aa0-bcd2-6f8bb68f7d74",
+    "title": "SELF-MAXIMIZE: [What do you bring to] THE TABLE?",
+    "created_at": "2025-12-24T19:33:05.243+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "GO HERE \u25bc\u25bc to bring more skills to the table! \nWorld's best book + article summaries:\nhttps://www.shortform.com/hm \u25c0\u25c0\n\nPeople have been talking about \"being the table\" for years now. You can't be the table, and pretending you can isn't helping you.\n\nOther people have preferences, and you either do or don't fit them. Get used to it!\n\nGO HERE to get THE TABLE packet and help yourself and others gain self-awareness:\nhttps://www.patreon.com/hoe_math/shop/table-pdf-1300071?source=storefront\n\nhttps://linktr.ee/hoe_math\n\u2b06\ufe0f EVERYTHING I DO \u2b06\ufe0f",
+    "status": "ready"
+  },
+  {
+    "id": "89e9164d-6b66-49d1-a29a-cdd125b08b6c",
+    "title": "Rory Sutherland \u2013\u00a0Are We Now Too Impatient to Be Intelligent? | Nudgestock 2024",
+    "created_at": "2025-12-24T19:24:49.533+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Rory explains how we weight information that appears quickly over knowledge that really matters.\n\n-- \n\nNudgestock is the world's biggest festival of behavioural science and creativity, where we inspire brands and people to impact the world.\n\nCurated by Ogilvy Consulting, Nudgestock is back for its 12th year - and this year, we're uncovering the hidden power of Time.\n\nTo many of us, time is nothing more than a series of moments. But look at it through the eyes of a behavioural scientist and you'll see it holds untold influence. Time is me and you. Time is your customers and citizens. Time is what makes businesses thrive and brands iconic.\n\nPut simply\u2026 the more we understand how we humans are shaped by time, the more we can wisely spend our own. Are you ready to harness the power of time?\n\nFor the full speaker list, details and more, visit www.nudgestock.com\n\n--\n\nAbout Ogilvy Consulting\u2019s Behavioural Science Practice\n\nAt Ogilvy Consulting, we work to creatively apply behavioural science insights to solve the world's most pressing and interesting challenges.\n\nA magical combination of science and creativity, we are a unique global team of psychologists and behavioural economists embedded within the Ogilvy network. We bring proprietary tools, proven experience, expert facilitation and the power of Ogilvy creativity to unlock the hidden 'psychological power' within our partners' brands and channels.\n\nWe create unseen opportunities that generate giant impact.\n\nEmail daniel.bennett@ogilvy.com to work with us.\n\n---\n\n#Nudgestock2024 #LiveStream #Live #Psychology #Nudgestock #BehaviouralScience #BehavioralScience",
+    "status": "ready"
+  },
+  {
+    "id": "b1c52f48-d04d-427b-810a-7112eb66f0e5",
+    "title": "Step Aunt Hospitality - Step Nephew Destroys Step-Aunt's Ass With His Huge Fat Cock 8======D\ud83d\udca6",
+    "created_at": "2025-12-31T15:40:53.392854+00:00",
+    "profile_id": "48c25c45-5d0a-4f82-8b58-ac8b161e7ae3",
+    "description": "",
+    "status": "ready"
+  },
+  {
+    "id": "7eb49252-4abd-4b0b-a73f-503512ad8d73",
+    "title": "Rory Sutherland: Perspective is everything",
+    "created_at": "2025-12-24T19:24:49.613+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "http://www.ted.com The circumstances of our lives may matter less than how we see them, says Rory Sutherland. At TEDxAthens, he makes a compelling case for how reframing is the key to happiness.\n\nTEDTalks is a daily video podcast of the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes. Featured speakers have included Al Gore on climate change, Philippe Starck on design, Jill Bolte Taylor on observing her own stroke, Nicholas Negroponte on One Laptop per Child, Jane Goodall on chimpanzees, Bill Gates on malaria and mosquitoes, Pattie Maes on the \"Sixth Sense\" wearable tech, and \"Lost\" producer JJ Abrams on the allure of mystery. TED stands for Technology, Entertainment, Design, and TEDTalks cover these topics as well as science, business, development and the arts. Closed captions and translated subtitles in a variety of languages are now available on TED.com, at http://www.ted.com/translate\n\nIf you have questions or comments about this or other TED videos, please go to http://support.ted.com",
+    "status": "ready"
+  },
+  {
+    "id": "cbf1e53e-cde1-410d-adab-3b98ec7ac11a",
+    "title": "THE HIGH LEVELS [of Thinking - and How they Make Things Better, Sometimes]",
+    "created_at": "2025-12-24T19:24:49.72+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "SIGN UP FOR SELF-MAX, my personal growth platform!\n\u25b6\u25b6\u25b6 https://selfmax.ai\u25c0\u25c0\u25c0\n\nI use levels of thinking to explain human behavior. Levels 2 is about the high levels of thinking.\n\nThis is a long video. It has to be. It's difficult to describe the higher levels to people who have never been there, or who have only had a glimpse. It's also difficult to describe ones that I've only had a glimpse of.\n\nLevels 2 takes you step by step through the lower levels to the higher, and then slows down to show you the finer perceptions that you can expect to have at the higher levels.\n\nI hope this video gives you all a boost upward. We need it!\n\n\u25b6\u25b6\u25b6\u25b6\u25b6 MY LINKS \u25c0\u25c0\u25c0\u25c0\u25c0\n\n\u2b07\ufe0f HM's WEBSITE (CLIPS + TRANSLATIONS)\nhttps://itishoemath.com\n\n\u2b07\ufe0f SELF-MAX: AI LIFE COACH [Designed by hoe_math]\nhttps://selfmax.ai\n\n\u2b07\ufe0f DIGITAL CHARTS + STUFF\nhttps://hoe-math-shop.fourthwall.com\n\n\u2b07\ufe0f POSTERS + T-SHIRTS + STUFF\nhttps://hoemath.dashery.com\n\n\u2b07\ufe0f EVERYTHING I DO\nhttps://linktr.ee/hoe_math",
+    "status": "ready"
+  },
+  {
+    "id": "4b264025-cc00-40d3-8b62-517ffd60d2f9",
+    "title": "Peter Thiel: Going from Zero to One",
+    "created_at": "2025-12-24T19:24:49.993+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Entrepreneur Peter Thiel believes that history, at least when it comes to businesses, never repeats itself. As a member of the so-called PayPal Mafia, the first outside investor in Facebook and founder of the Thiel Fellowship, Thiel himself has built a career of founding one-of-a-kind enterprises. Hear the \"contrarian truths\" that led to his biggest successes.\n\nAbout Chicago Ideas Week \nChicago Ideas Week is an annual seven-day celebration of ideas, innovation and community, aiming to become the platform for ideas, created for innovators, thinkers, doers. CIW's goal is to stimulate new initiatives and ventures, create new connections and collaborations, and establish a community of people who have the desire to achieve great things. Learn more: www.chicagoideas.com",
+    "status": "ready"
+  },
+  {
+    "id": "e816be38-1734-4a41-bb64-8be0e85ded45",
+    "title": "Conviction in Quality",
+    "created_at": "2025-12-24T19:24:50.283+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "In this recorded webinar, Barry Schwartz, Benjamin Klein, and Ernest Wong share Baskin Wealth Management\u2019s approach to navigating volatile markets.\n\nRecorded on December 13, 2025",
+    "status": "ready"
+  },
+  {
+    "id": "67548259-e612-4c28-872d-dfa6ed50b7c1",
+    "title": "State Dependent Memory (Defintion + Examples)",
+    "created_at": "2025-12-24T19:24:50.371+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Try my 3-in-1 Memory Test Free: https://practicalpie.com/free-memory-test/\n\nRead more about State Dependent Memory: https://practicalpie.com/state-dependent-memory/\n\n--- Invest in yourself ---\n\u2764\ufe0f Psychology of Attraction: https://practicalpie.com/POA\n\n\u23f0 Psychology of Productivity: https://practicalpie.com/psychology-of-productivity/\n\n\ud83d\udcb5 Psychology of Selling: https://practicalpie.com/psychology-of-selling/\n\n\ud83d\udcb8 Learn Persuasive writing with CopywritingKit!: https://practicalpie.com/copywritingkit-yt/\n\n\ud83e\udde0My Mastermind (Free $20 your first month): https://practicalpie.com/practical-growth-academy/",
+    "status": "ready"
+  },
+  {
+    "id": "c30a40b3-2ae6-4e19-b59c-ca7f93a03e69",
+    "title": "How's Life with John Mayer - Shawn Mendes FULL INTERVIEW",
+    "created_at": "2025-12-24T19:24:50.664+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "",
+    "status": "ready"
+  },
+  {
+    "id": "d3288c5c-aab5-48b1-9ea7-3c8e05042fb4",
+    "title": "Fix Your Eye Bags & Dark Circles Forever! (Using Science)",
+    "created_at": "2025-12-24T19:24:50.847+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "This video is completely sponsor and affiliate free.\nIn this video you will learn everything you need to know to get rid of puffy eye bags, dark circles and hollow under eye bags. All backed by science!\n\nContact: contact@shiroprotocol.com\n\nSources:\n\nStudy 1: UV Exposure Reduces Collagen\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC1618600/\n\nStudy 2: Peptide Eye Cream Increases Collagen\nhttps://pubmed.ncbi.nlm.nih.gov/38932444/\n\nStudy 3: Retinoids Damage Meibomian Glands\nhttps://www.sciencedirect.com/science/article/abs/pii/S0039625714002161\n\nStudy 4: High Salt Intake Increases Fluid Retention\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC5409798/\n\nStudy 5: Sleeping Position Reduces Eye Puffiness\nhttps://pubmed.ncbi.nlm.nih.gov/34652313/\n\nStudy 6: Facial Exercises and Structural Changes\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC5885810/\n\nStudy 7: Microneedling Improves Periorbital Wrinkles\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC10579575/\n\nStudy 8: Red Light Therapy Stimulates Collagen\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3926176/\n\nStudy 9: Oral Collagen Reduces Eye Wrinkles\nhttps://www.mdpi.com/2072-6643/13/5/1691\n\nStudy 10: Iron Deficiency and Dark Circles\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC3969674/\n\nStudy 11: Maxilla Position Affects Eye Area Volume\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC10658433/\n\nUnder-eye bags can make you look tired, older, and less attractive. The internet is full of products, viral hacks, and quick fixes that promise instant results\u2014but most of them don\u2019t work. That\u2019s why today, we\u2019re talking about what actually helps to reduce under-eye bags, dark circles, and puffiness\u2014and which methods you should avoid. \nIf you\u2019re serious about fixing dark circles, reducing puffiness, and preventing premature aging, this video will help you to understand all methods and decide if they could benefit you.\n\nWe\u2019ve spent over a year researching, reading clinical studies, consulting dermatologists, and testing different methods to find out what truly works.\n\n\ud83d\udccc I know you probably tired of trying \u2013 but we are sure you WILL find a method that works for you in this video. \nIf you want to help us and others then  comment and  let us know what worked for you and what didn\u2019t.\n\nHere is the full video of Dr. Gavin Chan talking about the topic of why he stopped filling tear throughs \u2013 it is worth watching: \nhttps://www.youtube.com/watch?v=VV-VbyNhzUM&t=950s\n\nI hope we were able to help you! Bye!\n\n\nChapters:\n00:00  Intro\n00:56 Method 1\n02:12 Method 2\n02:50 Method 3\n03:20 Method 4\n03:42 Method 5\n4:52 Method 6\n5:56 Method 7\n7:22  Method 8\n9:02 Method 9\n9:29 Method 10\n10:25 Summary",
+    "status": "ready"
+  },
+  {
+    "id": "0482f7fc-8928-4a58-a91c-614d641934fe",
+    "title": "Increasing Your Income 1000% Formula",
+    "created_at": "2025-12-30T17:57:16.038113+00:00",
+    "profile_id": "bed885ed-b441-4d74-9cf6-ad82d57d980a",
+    "description": "Learn Brian Tracy's strategy of increasing Your Income 1000% is based on the law of incremental improvement, the principal of continuous betterment.  There is a a thing in success called the \"momentum principal.\"  This means once you get going, it becomes easier and easier to keep going and and to go faster and faster.  You become more efficient, get more things done, become more productive and set better priorities.  If you work 26% more efficiently every year for 10 years you will be 1004% better.  For further information, please visit www.homebuyingbytheexperts.com.  Brian Tracy is a leading motivational speaker and co-author of the best-seller, Home Buying by the Experts.  HouseRebate.com -- Share the Wealth!!",
+    "status": "ready"
+  },
+  {
+    "id": "03a54d57-514c-4a07-8f4a-958c5ea0c1c3",
+    "title": "Sustainable Abundance | Master Plan Part IV",
+    "created_at": "2025-12-24T19:24:48.283+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Master Plan Part IV \u2013 https://x.com/Tesla/status/1962591324022153607\n\nSince Tesla\u2019s founding, each iteration of our master plan has focused on our north star: to deliver unconstrained sustainability without compromise.\n\nHumans are toolmakers. At Tesla, we make physical products at scale and at a low cost with the goal of making life better for everyone. \nAs the influence and impact of artificial intelligence (AI) technology increases, the mission set forth in Master Plan Part IV should come as no surprise.\n\nThis next chapter in Tesla\u2019s story will help create a world we've only just begun to imagine and will do so at a scale that we have yet to see. We are building the products and services that bring AI into the physical world.\nWe have been working tirelessly for nearly two decades to create the foundation for this technological renaissance through the development of electric vehicles, energy products and humanoid robots.\n\nNow, we are combining our manufacturing capabilities with our autonomous prowess to deliver new products and services that will accelerate global prosperity and human thriving driven by economic growth shared by all. We are unifying our hardware and software at scale, and in doing so, we are creating a safer, cleaner and more enjoyable world.\n\nThis is sustainable abundance.",
+    "status": "ready"
+  },
+  {
+    "id": "9c454a55-62cc-46f0-8d67-2f582beef963",
+    "title": "The Architecture of Abstraction: How We Find Order in Chaos?",
+    "created_at": "2025-12-24T19:37:06.122+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "What connects a cathedral, a line of code, and your own thoughts?\nAbstraction.\n\nThis film takes you on a journey through the hidden architecture of reality\u2014from stone masons carving cathedrals, to physics compressing the chaos of the universe, to the brain filtering overwhelming data into meaning.\n\nAbstraction is the silent language of science, art, and philosophy. It\u2019s how engineers simplify complexity, how artists strip form down to essence, how physicists compress infinities into equations, and how architects translate chaos into structure.\n\nBut abstraction is a double-edged sword. The more we simplify, the more we risk losing. So where\u2019s the balance? This documentary explores that tension, where noise becomes melody, where chaos reveals a pattern, where reality whispers its most elegant truths.\n\nIf you\u2019ve ever wondered how we make sense of the senseless, this is for you.\n\nQuestions Solved;\nWhat Is Abstraction In Philosophy And Science\nHow Abstraction Works In Art, Engineering, And Architecture\nWhy Abstraction Matters In Coding And Mathematics\nHow The Brain Filters Information Into Meaning\nWhat Connects Chaos, Order, And Design\nHow Cathedrals, Code, And Consciousness Are Linked\nWhat Does Abstraction Mean In Everyday Life\nExamples Of Abstraction In Reality\nHow Humans Simplify Complexity\nFinding Patterns In Chaos\n\n\nSubscribe to \"XenoSphere Originals\" for deep documentaries, big ideas, and the stories that shape how we think.\n\n#abstraction #architecture #documentary #philosophy #science #art #engineering #design #bigthink #consciousness #innovation #universe",
+    "status": "ready"
+  },
+  {
+    "id": "6480b574-a065-45d5-8ca1-009d4e433f33",
+    "title": "KERWIN FROST TALKS TO JOHN MAYER",
+    "created_at": "2025-12-24T19:24:50.969+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "On episode 2 of Season 2 of Kerwin Frost Talks, Kerwin meets his hero John Mayer at a diner.\n\nSponsored by our friends at Shopify\nSign up for Shopify and get the special Kerwin bundle: https://shopify.com/kerwin\n\nFollow Kerwin on Instagram: https://instagram.com/kerwinfrost",
+    "status": "ready"
+  },
+  {
+    "id": "0c17024f-cb29-405f-970f-e3f4cba6e12e",
+    "title": "Charlie Munger: Invert, always invert",
+    "created_at": "2025-12-24T19:24:51.1+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "In this video, Charlie Munger, the billionaire vice chairman of Berkshire Hathaway, shares his insights on how inverting his problems has helped him succeed in life. Munger is a known contrarian investor, and his approach to problem-solving is no exception. He believes that by looking at problems from the opposite perspective, you can often find more creative and effective solutions.\n\nMunger's advice is valuable for anyone who wants to be more successful in life. By inverting your problems, you can often find more creative and effective solutions. This approach can be applied to all areas of life, from business to personal relationships.\n\nIf you enjoyed this video, please like and subscribe to my channel for more interviews with successful people.",
+    "status": "ready"
+  },
+  {
+    "id": "adcb9f8d-362c-4a5f-884b-75653471ac3e",
+    "title": "The Mathematics of Creativity | Why Genius Follows a Formula",
+    "created_at": "2025-12-24T19:48:27.542+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "What if creativity wasn\u2019t magic\u2014but math?\nIn this video, we explore the mathematics of creativity through psychology, philosophy, and science. From Dean Keith Simonton\u2019s law of large numbers, Margaret Boden\u2019s theory of combinational creativity, Zipf\u2019s Law, Malcolm Gladwell\u2019s 10,000-hour curve, and even cellular automata\u2014we break down how imagination follows hidden equations.\n\nWhether you\u2019re a student, teacher, scientist, engineer, or philosopher, this video will change how you think about art, science, and human innovation.\n\n\nChapters:\n00:00 \u2013 Intro: Is Creativity Random?\n00:34 \u2013 The Law of Large Numbers\n01:42 \u2013 Zipf\u2019s Law of Ideas\n02:33 \u2013 Combinational Creativity (Boden)\n03:15 \u2013 Time & Growth (Gladwell)\n03:58 \u2013 Edge of Chaos (Complexity Theory)\n04:48 \u2013 The Formula for Creativity\n\n\ud83d\udccc Subscribe for more videos on philosophy, science, and abstract thinking.\n\n#creativity #mathematics #philosophy #science #innovation #abstractthinking #complexity #psychology #ideas #inspiration #bigthink #veritasium #numberphile #vsauce #kurzgesagt #education #learning #sciencetok #philosophytok #tech #artandscience #genius #edgeofchaos #combinatorialcreativity #mathandcreativity #theory #thinking #intelligence #knowledge",
+    "status": "ready"
+  },
+  {
+    "id": "e8f13222-7012-42c3-acb1-c25c830fe720",
+    "title": "Here Are The 3 Reasons I Sell A Stock",
+    "created_at": "2025-12-24T19:24:48.563+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "\ud83c\udf89 4,000+ Member Patreon: https://www.patreon.com/josephcarlson\n\ud83d\ude80 Growth Portfolio: https://click.linksynergy.com/deeplink?id=5mNcifgFllM&mid=50362&murl=https%3A%2F%2Fdashboard.m1.com%2Fshare%3Ftoken%3DH4sIAAAAAAACA5XRzQqCQBAA4FeJOXvwJwuEDoEFHnYj0iAiQtZF1moVXalNfPe2Q6f1MB1nmI_5G0DphkMEkj-vjeDggMwf38RB1a2ebXtZmFx3F4x3EJ0HUDVEw091nPWtUNqUiMLEmXuMd1Xikne5gtGBhreMS5WXpjjwRgfFTz6tEov7LpInLxoTi3shmpP0ZvMAyzVNM4svkZqFJN5YevHH6PbdsYsTn6Zre3Fs7_nUz7GaaVrtJ_Rl_ACURjFOoQIAAA%26referrerCode%3DMyM7igoOGZN8\n\ud83d\udcb5 Dividend Portfolio: https://click.linksynergy.com/deeplink?id=5mNcifgFllM&mid=50362&murl=https%3A%2F%2Fdashboard.m1.com%2Fshare%3Ftoken%3D3b283352-1bff-31d9-8576-f5770c2bfdfd%26referrerCode%3DMyM7igoOGZN8\n\nQUALTRIM.COM & PATREON (Includes free trial)\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\nJoin Here: https://www.patreon.com/josephcarlson \n\nThe Patreon Membership includes Qualtrim.com, membership to a private discord community, and hundreds of exclusive episodes.\n\nSOCIAL MEDIA \n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\n\ud83c\udfa5 More free content: https://www.youtube.com/channel/UCbta0n8i6Rljh0obO7HzG9A\n\ud83d\udc26 I post random thoughts on Twitter too: https://twitter.com/joecarlsonshow\n\ud83e\uddf5 My Threads account: https://www.threads.net/@joecarlsonshow\n\nDISCLAIMER\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\nI am not a professional investor and have never claimed to be. I'm an amateur investor sharing my experience of what I've learned, where I have had success, and where I've had failures. I share my thoughts on investing and performance with transparency. My approach and goal to investing is to buy high-quality long-term investments in world-class businesses that I call \"compounders\". I view my investments as businesses, not as stocks. Before creating content on YouTube full time I worked as a senior-level programmer for 8 years. Over the years as a programmer, I compounded my knowledge of development. I take the same iterative learning approach to my study of investing. I study investing as a craft in the continual pursuit of being better. I will make mistakes in investment decisions from time to time. Results are not guaranteed. Please do not blindly follow me into any investments, and make sure your portfolio and investments are built around your specific income, risk tolerance, personality, timeline, and overall circumstances.",
+    "status": "ready"
+  },
+  {
+    "id": "83b74153-793c-47bf-953b-d6e764ec2e12",
+    "title": "Techniques to Enhance Learning and Memory | Nancy D. Chiaravalloti | TEDxHerndon",
+    "created_at": "2025-12-24T19:24:48.747+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Dr. Chiaravalloti discusses the learning process and techniques that have been shown to improve learning and memory in healthy persons.  She walks through the evidence demonstrating these techniques to additionally be helpful to persons with Multiple Sclerosis and Traumatic Brain Injury.  Techniques discussed include a structured treatment protocol, the modified Story Memory Technique (mSMT) and its critical ingredients, context and imagery.  \n\nNancy D. Chiaravalloti, PhD is Director of Neuropsychology and Neuroscience and of TBI Research at Kessler Foundation, Professor in the Department of Physical Medicine and Rehabilitation at Rutgers University -NJ Medical School, and a licensed psychologist in NJ and NY.  She is Project Director of the Northern NJ Traumatic Brain Injury Model System, one of 16 federally-designated model systems of research and care for persons with traumatic brain injury in the US.  Dr. Chiaravalloti has obtained over 13 million dollars in grant funding since starting her professional career in 2001, including grants from the NIH, the National Institute on Disability, Independent Living and Rehabilitation Research (NIDILRR), the National Multiple Sclerosis Society, the New Jersey Commission on Traumatic Brain Injury Research, the New Jersey Commission on Spinal Cord Injury Research, the Carl Nielson Foundation and the National Stroke Association. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx",
+    "status": "ready"
+  },
+  {
+    "id": "ee5ac0c2-ecba-4324-8816-f4f8ccb3349f",
+    "title": "The New World Order Is Here - Peter Zeihan",
+    "created_at": "2025-12-24T19:24:48.945+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Peter Zeihan is a geopolitical analyst, speaker and author.\n\nWhat does the next decade really hold? Beneath every forecast about the future, one thing quietly determines everything else: energy. From globalisation to warfare to artificial intelligence, how will the world be reshaped in the years ahead?\n\nExpect to learn why Peter thinks China will be gone within the next 10 years, how we're entering a labour shortage that no one is ready for, how a shrinking workforce changes geopolitics, what Peter thinks of Mamdani\u2019s win, how the future of wars will be a battle over energy, if America is actually ready for a world built around de-globalisation, the current and future state of the Ukraine-Russian war and much more\u2026\n\n-\n\n0:00 Is China Really on the Brink?\n6:19 Has China Been Lying About Their Data?\n11:08 Can AI Save Us From Population Decline?\n17:21 Can We Survive Demographic Collapse?\n25:19 How Politics is Impacting Population Data\n34:23 The Future of Global Energy\n41:03 Are Electric Vehicles Truly Sustainable?\n51:24 Where the Green Movement is Really Headed\n01:03:40 How Technology is Impacting Modern Warfare\n01:08:40 Could China Ignite the Next Global Conflict?\n01:15:09 The Power Alliances Reshaping the World\n01:18:50 Where to Find Peter\n\n-\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/",
+    "status": "ready"
+  },
+  {
+    "id": "ff8038f8-e164-49d1-898b-8c9a46fc9538",
+    "title": "Google DeepMind: \"The arrival of AGI\"",
+    "created_at": "2025-12-24T19:24:49.422+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Check out AWS re:Invent: https://reinvent.awsevents.com/keynotes/\n\nAWS re:Invent 2025 - Keynote with CEO Matt Garman: https://www.youtube.com/watch?v=q3Sb9PemsSo\n\n______________________________________________\nThe conversation about AI is fundamentally changing. We are no longer talking about \"if\" but \"when\"\u2014and \"when\" looks like it\u2019s coming much sooner than we thought.\n\nIn this video, we break down a startling chart from the Federal Reserve Bank of Dallas that maps out two potential future economic scenarios: a singularity of abundance or an extinction event. We also dive into Sam Altman\u2019s 10-year prediction for Superintelligence, DeepMind co-founder Shane Legg\u2019s thoughts on the arrival of AGI, and why the \"labor for resources\" economic model might be coming to an end.\n______________________________________________\nThe latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n______________________________________________\nMy Links \ud83d\udd17\n\u27a1\ufe0f Twitter: https://x.com/WesRothMoney\n\u27a1\ufe0f AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\nTIMELINE\n00:00 AGI Coming\n02:45 AI Village\n03:27 Sam Altman Ten Years\n04:32 AWS reInvent 2025 (sponsor)\n08:02 Unsupervised Sentiment Neuron\n17:02 Shane Legg (co-founder of DeepMind)\n22:00 All-In on Anti-AI Sentiment\n25:12 Epoch AI and METR\n\n#ai #openai #llm",
+    "status": "ready"
+  },
+  {
+    "id": "f69cee2e-9f90-4beb-9882-a51ee32c523f",
+    "title": "Khan Academy Founder: Predictions About the Future of AI Education",
+    "created_at": "2025-12-24T19:24:50.466+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "When Khan Academy launched Khanmigo, Salman Khan thought they might reach 100k users by 2025. Today, they\u2019re at 1.4 million. \n\n\ud83c\udfa7 Sal joined us on Unsupervised Learning to talk about AI's role in education\u2014 from the vantage point of someone deploying it at scale. As founder of Khan Academy, he\u2019s overseen the rollout of AI tools to over a million teachers and students, giving him a front-row seat to what\u2019s actually working in classrooms.\n\n0:00 Intro\n1:40 The Vision for Future Classrooms\n4:51 Khan Academy's AI Initiatives\n7:29 Building Proactive AI\n10:57 Teacher and Student Experiences\n18:47 District-Level Adoption and Policy\n26:19 Gamification and Student Engagement\n27:59 Evaluating AI Models\n31:26 Global Impact and Future Prospects\n38:06 Challenges and Innovations in AI Education\n44:42 Quickfire\n\nWith your co-hosts:\u00a0\n@jacobeffron\u00a0\n- Partner at Redpoint, Former PM Flatiron Health\u00a0\n@patrickachase\u00a0\n- Partner at Redpoint, Former ML Engineer LinkedIn\u00a0\n@ericabrescia\u00a0\n- Former COO Github, Founder Bitnami (acq\u2019d by VMWare)\u00a0\n@jordan_segall\u00a0\n- Partner at Redpoint",
+    "status": "ready"
+  },
+  {
+    "id": "bed43746-0084-4c15-acb5-73e4cd93e050",
+    "title": "The Mathematician's Weapon | An Intro to Category Theory, Abstraction and Algebra",
+    "created_at": "2025-12-29T06:46:39.272792+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "A gentle introduction to the study of category theory and abstract algebra, done from the ground-up by exploring the mathematical weapon of abstraction.\n\nThis video aims to give an overview of the fundamental tool at the forefront of pure mathematical research: abstraction. By seeing this tool in various contexts, and how it allows us to encounter category theory in a natural and intuitive manner, we'll see how beautiful the abstract can really be.\n\n\u2015 Timestamps \u2015\n\n0:00 - Intro\n1:49 - Abstraction and Algebra\n7:30 - Examples of Abstraction\n8:49 - Set Theory\n13:25 - Category Theory\n21:16 - Outro\n\n\u2015 Credits \u2015\n\nAll animation and voiceover created by Eyesomorphic.\nBackground music: 'Abstraction', composed by Caleb Peppiatt.\n\n\u2015 Further Reading \u2015\n\nCategory Theory for Programmers: The Preface, by Bartosz Milewski: https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/\n\nCategory Theory for Computing Science, by Michael Barr & Charles Wells (Book)\n\n\u2015 Please Note \u2015\n\nSorry for the woeful audio levels and patchy editing, this was my first shot at making a video! I've kept the video up for nostalgia purposes but it should be noted that I have re-uploaded the video (https://youtu.be/DrldYpmwN5s) with some fixes.",
+    "status": "ready"
+  },
+  {
+    "id": "73bcb4f7-407f-4d94-9afd-f96f3f9effe2",
+    "title": "Warren Buffett: When To Sell",
+    "created_at": "2025-12-27T18:16:00.981315+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "\ud83d\udcda Superinvestor Infographic eBook: https://longtermmindset.co/superinvestor\n\n\u25bc Tools & Courses \u25bc\n\u2705 Stock Analysis AI Prompts: https://StockSimplifier.com\n\n\u25bc\ud83d\uded2 Shop Our Store! \u25bc\n https://longtermmindset.co/store\n\n\u25bcABOUT US:\u25bc\n\ud83d\udc68\u200d\ud83d\udcbcBrian Feroldi is an author (https://amzn.to/3JVr9Q0), investor, YouTuber, and financial educator. He's been investing in the stock market since 2004. Brian likes to buy and hold the highest quality companies he can find.\n\n\ud83d\udc68\u200d\ud83d\udcbcBrian Stoffel is a writer, investor, YouTuber, and financial educator. He's a teacher at heart. Brian has been investing for over a decade and has written over 4,000 articles for The Motley Fool. Brian plans his life and his investments around \u201cantifragile\u201d principles.\n\n\u26a0\ufe0f Disclaimer: \u26a0\ufe0f\nThis content is for educational, illustrative, and entertainment purposes only. Nothing in this video should be considered financial advice, a recommendation, or a solicitation to buy or sell any security.\n\nInvesting involves risk, including the risk of losing your principal. Past performance is not indicative of future results. Always do your own research. If you need personalized advice, consult a licensed financial, legal, or tax professional.\n\nThe opinions shared are my own as of the recording date and may change without notice. I do not guarantee the accuracy or completeness of any information shared. By watching this video, you agree not to hold me or any guest liable for decisions made based on this content.\n\nSome links included may be affiliate links, which means I may earn a commission if you use them, at no extra cost to you. I only recommend products I believe in.",
+    "status": "ready"
+  },
+  {
+    "id": "0529c621-38ca-45e0-8923-57be55e60e98",
+    "title": "Psychology of People Who Never Join Trends",
+    "created_at": "2025-12-27T20:18:32.662026+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Ever wondered about the psychology of people who never join trends? While the world jumps on the latest viral TikTok dance, Buying the latest iphone or pop culture moment, some individuals remain completely unfazed. This video dives deep into the fascinating psychological reasons why some people ignore trends and forge their own path.\n\n\nIt\u2019s not about being a contrarian or \u201ctrying to be different.\u201d The decision to avoid what's popular is a powerful indicator of a person's inner world, revealing deep-seated traits related to their personality, confidence, and how they find validation. If you've ever felt like you don't fit in with pop culture, this video will explain the psychology behind that feeling and show you why it's actually a sign of a strong sense of self.\n\n\n\ud83e\udde0 In this video, we explore:\nIntrinsic vs. Extrinsic Validation: The core difference between needing outside approval and generating your own self-worth.\nThe \"Identity Anchor\" Trait: Why some people don't need trends because their identity is already fully formed and stable.\nMental Energy Preservation: How ignoring trends is a highly efficient strategy to protect your focus for what truly matters.\nPsychological Reactance: The powerful subconscious reflex that makes you resist being told what to do, and how it relates to social pressure and conformity.\n\n\nIf this video about the psychology of being an individual resonated with you, please hit the \ud83d\udc4dLIKE button and \ud83d\udd14SUBSCRIBE for more deep dives into human behavior and personality.\n\n\n\ud83d\udc47 Let us know in the COMMENTS: Are you a trend-follower or a trend-avoider? What's one trend you proudly ignored?\n\n\n\u25b6\ufe0f WATCH NEXT:\nPsychology of People Who Don't Post their Photos on Social Media: https://youtu.be/p7m3Y14-IN8\nWhy Your Body Freezes When You See Your Crush: https://youtu.be/VBRAZD91Xf0",
+    "status": "ready"
+  },
+  {
+    "id": "9f425731-ecc8-40d9-8dfc-17a11b7e22fc",
+    "title": "Why Canada\u2019s Teachers Run an Investment Firm in Singapore",
+    "created_at": "2025-12-27T21:17:57.345115+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Go to https://nordvpn.com/halfasinteresting to sign up for NordVPN with a huge discount for HAI viewers\n\nGet a Half as Interesting t-shirt: https://standard.tv/collections/half-as-interesting\nSuggest a video: http://halfasinteresting.com/suggest \n\nFollow Sam from Half as Interesting on Instagram: http://Instagram.com/Sam.From.Wendover\n\nFollow Half as Interesting on Twitter: http://twitter.com/halfinteresting \n\nDiscuss this video on Reddit: http://www.Reddit.com/r/halfasinteresting\n\nVideo written by Adam Chase\n\nCheck out our other channels: http://youtube.com/wendoverproductions\nhttp://youtube.com/jetlagthegame",
+    "status": "ready"
+  },
+  {
+    "id": "48d018f7-e896-43e2-a4f7-674fddd160a7",
+    "title": "Music Theory EXPLAINED in 60 Seconds",
+    "created_at": "2025-12-30T18:03:03.893003+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "\ud83d\udd17 GET THE PDF HERE:  \nhttps://www.mycolormusic.com/library\n\nHow does music theory REALLY work? It's all about patterns -- as this video explains in less than 60 seconds....\n\nIf you'd like to see more videos like this, please LIKE and SUBSCRIBE. And if you know someone who needs to see this, be sure to SHARE it with them. I want to know what you think, so please COMMENT.\n\n\u25b6 LINK \ud83c\udfa5\nTHE ONLY SCALE YOU NEED TO KNOW:  https://youtu.be/yrz4kL3AeOo\n\n\ud83c\udfb9 SHOP \ud83c\udfb8\nhttps://shop.mycolormusic.com/\n\n\ud83e\udd3c\u200d\u2642\ufe0f CONNECT \ud83d\udde3\nCOMMUNITY: https://mikegeorge.locals.com/\nTIKTOK: @mikegeorge360\nX: @MikeGeorge360",
+    "status": "ready"
+  },
+  {
+    "id": "d81fd0c1-a173-48ee-80d8-92c55ce60a9b",
+    "title": "Gemini 3 Flash: Creative UI in a spark",
+    "created_at": "2025-12-29T05:46:42.21238+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Gemini 3 Flash excels in capabilities required for rapid prototyping, including instant code generation, aesthetic versatility, and creative ideation. It can also natively drive the design process, like generating new prompts for style exploration, and can produce multiple distinct UI variations with just a single click to accelerate development.\n\nLearn more at https://deepmind.google/models/gemini/flash/\n___\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+    "status": "ready"
+  },
+  {
+    "id": "f8744b48-632f-4c5f-992d-35361a4b4f94",
+    "title": "3 crucial drills to improve your dribbling by 200%",
+    "created_at": "2025-12-29T06:21:40.755251+00:00",
+    "profile_id": "9306fd12-9bb8-4c88-8175-9bc391c8f86c",
+    "description": "Improve your dribbling skills - football tutorial. In today's football skills tutorial, JayMike will show you 3 dribbling drills that you can use to improve your dribbling abilities, both in regards to your technique and control over the ball, but also in regards to your understanding of how to beat defenders. Here, JayMike will explain why it's important to keep the football close to your feet, but also to look up and orient yourself on where the defenders are - and in today's football skills tutorial, these 3 super easy dribbling drills will improve your dribbling drastically so you can beat defenders with easy when you play a match. \n\nBUY YOUR NEW FOOTBALL BOOTS HERE: https://www.unisportstore.com/footballboots\n\nIf you contribute with subtitles, titles or descriptions leave your name here, and we will make sure that the world knows who helped grow the unisportlife experience! \n\nFOLLOW US ON SOCIAL MEDIA; \n\ud83d\udd1d *Facebook*: http://www.facebook.com/Unisportstore \n\ud83d\udcf8 *Instagram*: http://instagram.com/unisportstore/\n\ud83d\udcf2  Our *homepage and store*: http://www.unisportstore.com/\n\ud83d\udd4a *Twitter*: https://twitter.com/unisportlife\n\u25b6\ufe0f *Youtube*: http://www.youtube.com/channel/UC5SQGzkWyQSW_fe-URgq7xw?sub_confirmation=1\n\ud83c\udfb5 *TikTok* https://www.tiktok.com/@unisportstore?lang=en",
+    "status": "ready"
+  },
+  {
+    "id": "ea329804-18fb-4952-857c-2b0669c1f612",
+    "title": "Google\u2019s AGI Glasses Could Put an End to Every Other AI Eyewear Brand!",
+    "created_at": "2025-12-29T06:57:01.935506+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Google has officially announced its return to smart glasses in 2026\u2014and this time, it isn\u2019t just chasing notifications. Project Aura is Google\u2019s attempt to turn glasses into a real computing platform: a floating 70-degree virtual screen in front of your eyes that can run full Android apps in space, powered by Gemini\u2019s vision. While social media roasted the early prototypes as \u201cblind goggles\u201d and \u201cVR ski masks,\u201d the real story is much bigger. Aura combines XREAL\u2019s mature waveguide optics, a separate compute puck for battery and thermal control, Android XR for true multi-app windows, and Gemini for live translation, navigation, object recognition, and \u201cwhat am I looking at?\u201d moments that Google Glass in 2013 could only dream of. This video walks through the whole journey: how the original Google Glass collapsed under privacy backlash, overheating hardware, and the \u201cGlasshole\u201d stigma\u2014and why the world of 2026 is finally ready for cameras and AR displays on faces. We break down Aura\u2019s two versions (audio-only AI glasses and the full AR display model), show how hand tracking, eye tracking, and Circle to Search now extend into the real world, and explain why partnering with Warby Parker, Gentle Monster, Samsung, and XREAL might be the secret weapon that makes these glasses look and feel like normal eyewear instead of sci-fi props. We also dig into the hard questions: privacy indicators, social acceptance, and whether Aura slowly pulls dozens of daily interactions away from your phone until glasses become your main screen. By the end, you\u2019ll see why Google, Meta, Apple, Samsung, and Alibaba are all racing for the same thing: the interface that replaces the smartphone. And if you want the real story behind the world\u2019s fastest-moving AI breakthroughs, make sure to like and subscribe to Evolving AI for daily coverage.",
+    "status": "ready"
+  },
+  {
+    "id": "a4f4eaba-0ef6-429b-b736-3710979336ac",
+    "title": "Skiers Jump OVER A Chairlift! Best Party Lap Ever?",
+    "created_at": "2025-12-31T16:30:13.511672+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "Spring, slush, sun, and skiing with the whole gang. It almost doesn't get any better than that. Jump on the bandwagon for some of the most exciting and fun ski trains you'll be seeing in a while.\n\nSkiers: @LoganPehota  (+snowmobiler), @jespertjader, @NicoVuignier, Kirsty Muir, Paddy Graham, @nico.porteous, @hunterhenderson5904, Mac Forehand, Max Moffatt, @chablozmax,  @ari_tricomi, Birk Irving, Walker Woodring\n\nFilmed by@alexmeliss and @marinhoramonmeyer\n\nMusic: Shocking Blue - \"Send Me A Postcard\"\n \n ___\nExperience the world of Red Bull Snow like you have never seen it before. With the best snow action sports clips on YouTube and original series,  from skiing to snowboarding, prepare for your \"stoke factor\" to be at an all-time high.\n\nSubscribe to Red Bull Snow on YouTube: https://win.gs/SubToRedBullSnow\n\nGet the FREE Red Bull TV apps for all your devices:  https://go.onelink.me/351027264/35a30660\n\nRed Bull Snow on Facebook: https://www.facebook.com/RedBullSnow/\n\nRed Bull Snow on Instagram: https://www.instagram.com/redbullsnow\n\nRed Bull Snow on TikTok: https://www.tiktok.com/@redbullsnow",
+    "status": "ready"
+  },
+  {
+    "id": "2acb568e-e573-458e-980b-1877cfeb3d9a",
+    "title": "THE CURIOSITY GENE - POINT OF UNCERTAINTY",
+    "created_at": "2025-12-29T15:14:07.423815+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "This video will inspire you and is aimed to remind you, that curiosity matters. This video is my imagination of the importance of asking question. I have had a lot of fun while making this short video. Hope you also enjoyed this video. \n\nComment your views about it in the comment section.\n\n\"Knowledge is preferable to ignorance. Better by far to embrace the hard truth than a reassuring fable. If we crave some cosmic purpose, then let us find ourselves a worthy goal.\" - Carl Sagan\n\nAudio:\nEpidemic Sound\n\n============================================================\n\nOur Social Media handles:\nOfficial:\n            Instagram: https://www.instagram.com/pointofuncertainty/\nThank you all for your love and support!\n\nContact pointofuncertainty@gmail.com for any sponsorship related query.",
+    "status": "ready"
+  },
+  {
+    "id": "76788b64-c249-4102-9bd5-581f83d5b9f2",
+    "title": "Aphantasia: Why Some People Can't 'See' Mental Images",
+    "created_at": "2025-12-29T15:21:38.247667+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "An estimated 1 to 4% of people have aphantasia, a condition where they don\u2019t experience mental imagery or a \u2018mind\u2019s eye.\u2019  Neuroscience research into people with aphantasia is now revealing how imagination works and demonstrating the sweeping variety in our subjective experiences.\n\nCorrection: February 10, 2025\nJoel Pearson is a neuroscientist, not a neurologist.\n\nRead the Quanta article: \"What Happens in a Mind That Can\u2019t \u2018See\u2019 Mental Images\"\nhttps://www.quantamagazine.org/what-happens-in-a-mind-that-cant-see-mental-images-20240801/\n\nPAPERS\n- \"Loss of imagery phenomenology with intact visuo-spatial task performance: A case of \u2018blind imagination\u2019\"  | https://www.sciencedirect.com/science/article/abs/pii/S0028393209003418?via%3Dihub\n- \"The critical role of mental imagery in human emotion: insights from fear-based imagery and aphantasia\" | https://pubmed.ncbi.nlm.nih.gov/33715433/\n- \"Hippocampal-occipital connectivity reflects autobiographical memory deficits in aphantasia\"  |  https://elifesciences.org/reviewed-preprints/94916v2\n\n---------\nChapters: \n\n00:00 What is it like to have aphantasia?\n01:29 How aphantasia was identified and named - Adam Zeman\n02:32  How the brain forms mental imagery - visual cortex\n03:25 VVIQ Questionnaire\n04:03 Joel Pearson's new research techniques\n04:55 Emotional response and aphantasia\n05:52 Cornelia McCormick and memory research\n06:26 Memory-aphantasia connection\n07:09 Aphantasia spectrum and hyperphantasia\n\n---------\n- VISIT our website: https://www.quantamagazine.org \n- LIKE us on Facebook: / quantanews  \n- FOLLOW us Twitter:  / quantamagazine  \n\nQuanta Magazine is an editorially independent publication supported by the Simons Foundation: https://www.simonsfoundation.org",
+    "status": "ready"
+  },
+  {
+    "id": "765b0525-1656-421e-89e6-9e2312457782",
+    "title": "The Surprising Food That Raises Testosterone Levels",
+    "created_at": "2025-12-29T15:22:28.537827+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "@HealthyLivingGuide  The Surprising Food That Raises Testosterone Levels\n\ntestosterone foods,natural testosterone booster,zinc rich foods,magnesium foods,pumpkin seeds benefits,male health,men\u2019s energy,hormone balance,anti inflammatory foods,prostate health,omega 3 foods,B vitamins,muscle growth,healthy aging for men,men nutrition,how to increase testosterone,low testosterone,best food to increase testosterone,boost testosterone naturally,how to increase testosterone naturally for men\n\nMost men think steak, eggs, or oysters are the best for testosterone \u2014 but there\u2019s a simple food that outperforms them all.\nIt\u2019s rich in zinc and magnesium, two key minerals that increase free testosterone and reduce cortisol \u2014 the stress hormone that blocks it.\n\nThis food also provides omega-3s, B vitamins, and antioxidants that support your brain, mood, and prostate while fighting inflammation and keeping your hormones balanced.\n\n\ud83d\udc49 Just two tablespoons a day can noticeably boost your energy, strength, and focus.\nWatch till the end to find out which food it is \u2014 you probably have it in your kitchen right now.\n\n#testosterone #menshealth #nutrition #pumpkinseeds #naturalremedies #healthtips #hormonebalance",
+    "status": "ready"
+  },
+  {
+    "id": "33dc8d0a-921c-400e-bf04-ce6df6b5785b",
+    "title": "John Mayer",
+    "created_at": "2025-12-24T19:24:49.334+00:00",
+    "profile_id": "19c47219-e31a-4208-a6db-a135cff22207",
+    "description": "John Mayer is an American songwriter, guitarist, and musician. He has won several Grammy awards, including Song Of The Year for \u201cDaughters.\u201d\n\nIn addition to his successful solo career, Mayer is also a member of the band Dead & Company, which features former Grateful Dead members. He joined the band in 2015 and has since toured extensively with them until this summer when the band announced and just wrapped their final tour. Mayer's contribution to Dead & Company has been praised by fans and critics alike, as has his dedication to the guitar in a time when its cultural resonance has been challenged. \n\nJohn also remains dedicated to his own songs, past and present, having recently finished an acclaimed solo tour. \n\n-------\n\nThank you to the sponsors that fuel our podcast and our team:\n\nHouse of Macadamias\n\nhttps://www.houseofmacadamias.com/tetra\n\nGet a free box of Dry Roasted Namibian Sea Salt Macadamias + 20% off Your Order With Code TETRA\n\nUse code TETRA for 20% off at checkout \n\n-------\n\nLMNT Electrolytes\n\nhttps://drinklmnt.com/tetra\n\n Get a free LMNT Sample Pack with your order.\n\n#rickrubin #tetragrammaton #podcast #johnmayer",
+    "status": "error"
+  }
+]

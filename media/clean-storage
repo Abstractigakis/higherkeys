@@ -1,0 +1,178 @@
+#!/Users/airx/hks/media/.venv/bin/python
+"""
+Cleanup script for Supabase Storage.
+Iterates through folders in the 'sources' bucket and deletes those whose video_id
+no longer exists in the 'sources' table.
+Usage: ./clean-storage --DEV or --PROD
+"""
+
+import os
+import argparse
+from dotenv import load_dotenv
+from supabase import create_client, Client
+
+
+def list_all_files(supabase: Client, bucket_name: str, prefix: str):
+    """Recursively list all files under a prefix in Supabase Storage."""
+    all_files = []
+    folders_to_scan = [prefix]
+
+    while folders_to_scan:
+        current_path = folders_to_scan.pop()
+        offset = 0
+        limit = 100
+
+        while True:
+            try:
+                items = supabase.storage.from_(bucket_name).list(
+                    current_path, options={"limit": limit, "offset": offset}
+                )
+            except Exception as e:
+                print(f"    Error listing {current_path}: {e}")
+                break
+
+            if not items:
+                break
+
+            for item in items:
+                item_name = item["name"]
+                # Skip the folder itself if it appears in the list
+                if item_name == ".emptyFolderPlaceholder":
+                    all_files.append(f"{current_path}/{item_name}")
+                    continue
+
+                full_item_path = f"{current_path}/{item_name}"
+
+                # In Supabase Storage, folders usually have no metadata
+                if item.get("metadata") is None:
+                    folders_to_scan.append(full_item_path)
+                else:
+                    all_files.append(full_item_path)
+
+            if len(items) < limit:
+                break
+            offset += limit
+
+    return all_files
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="Clean up Supabase storage folders for deleted sources."
+    )
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument("--DEV", action="store_true", help="Use .env.dev")
+    group.add_argument("--PROD", action="store_true", help="Use .env.prod")
+    parser.add_argument(
+        "--dry-run", action="store_true", help="List files without deleting"
+    )
+
+    args = parser.parse_args()
+
+    # Determine which env file to use
+    env_file = ".env.dev" if args.DEV else ".env.prod"
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    env_path = os.path.join(script_dir, env_file)
+
+    if not os.path.exists(env_path):
+        print(f"Error: {env_file} not found at {env_path}")
+        return
+
+    # Load environment variables
+    load_dotenv(env_path)
+
+    url = os.getenv("SUPABASE_URL")
+    key = os.getenv("SUPABASE_SERVICE_ROLE_KEY")
+
+    if not url or not key:
+        print("Error: SUPABASE_URL or SUPABASE_SERVICE_ROLE_KEY not found in env file.")
+        return
+
+    # Initialize Supabase client
+    supabase: Client = create_client(url, key)
+    bucket_name = "sources"
+
+    orphaned_count = 0
+
+    print(f"Connecting to Supabase at {url} using {env_file}...")
+
+    # 1. Get all valid source_ids from the database
+    try:
+        # We use service role key so we can see all records regardless of RLS
+        response = supabase.table("sources").select("id").execute()
+        existing_source_ids = {row["id"] for row in response.data}
+        print(f"Found {len(existing_source_ids)} sources in database.")
+    except Exception as e:
+        print(f"Error fetching sources: {e}")
+        return
+
+    # 2. List all profile folders in the bucket
+    try:
+        profiles = supabase.storage.from_(bucket_name).list()
+    except Exception as e:
+        print(f"Error listing bucket root: {e}")
+        return
+
+    for profile in profiles:
+        profile_id = profile["name"]
+        # Basic UUID check (36 characters)
+        if len(profile_id) != 36:
+            continue
+
+        print(f"Checking profile: {profile_id}")
+
+        # 3. List all video folders for this profile
+        try:
+            video_folders = supabase.storage.from_(bucket_name).list(profile_id)
+        except Exception as e:
+            print(f"  Error listing profile {profile_id}: {e}")
+            continue
+
+        for video_folder in video_folders:
+            video_id = video_folder["name"]
+            if len(video_id) != 36:
+                continue
+
+            # 4. Check if video_id exists in database
+            if video_id not in existing_source_ids:
+                orphaned_count += 1
+                print(f"  [ORPHANED] {profile_id}/{video_id}")
+
+                # 5. Find all files to delete
+                files_to_delete = list_all_files(
+                    supabase, bucket_name, f"{profile_id}/{video_id}"
+                )
+
+                if files_to_delete:
+                    if args.dry_run:
+                        print(
+                            f"    [DRY RUN] Would delete {len(files_to_delete)} files."
+                        )
+                    else:
+                        print(f"    Deleting {len(files_to_delete)} files...")
+                        try:
+                            # Supabase remove() can take a list of paths
+                            # Chunking to avoid potential request size limits
+                            for i in range(0, len(files_to_delete), 100):
+                                chunk = files_to_delete[i : i + 100]
+                                supabase.storage.from_(bucket_name).remove(chunk)
+                            print(
+                                f"    Successfully deleted {len(files_to_delete)} files."
+                            )
+                        except Exception as e:
+                            print(f"    Error deleting files: {e}")
+                else:
+                    print(f"    No files found in folder.")
+
+    print("\n" + "=" * 40)
+    if args.dry_run:
+        print(
+            f"Cleanup check complete. {orphaned_count} orphaned video folders identified."
+        )
+    else:
+        print(f"Cleanup complete. {orphaned_count} orphaned video folders processed.")
+    print("=" * 40)
+
+
+if __name__ == "__main__":
+    main()
